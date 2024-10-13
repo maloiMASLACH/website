@@ -43,7 +43,7 @@ export const withHelmet =
 
           {title && <title>{title}</title>}
           {openGraphTitle && <meta property="og:title" content={openGraphTitle} />}
-          {openGraphTitle && <meta property="twitter:title" content={openGraphTitle} />}
+          {openGraphTitle && <meta name="twitter:title" content={openGraphTitle} />}
 
           <meta name="twitter:card" content="summary_large_image" />
 
