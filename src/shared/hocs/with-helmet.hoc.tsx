@@ -43,11 +43,15 @@ export const withHelmet =
 
           {title && <title>{title}</title>}
           {openGraphTitle && <meta property="og:title" content={openGraphTitle} />}
+          {openGraphTitle && <meta property="twitter:title" content={openGraphTitle} />}
 
           <meta name="twitter:card" content="summary_large_image" />
 
           {descriptionValue && <meta name="description" content={description} />}
           {openGraphDescription && <meta name="og:description" content={openGraphDescription} />}
+          {openGraphDescription && (
+            <meta name="twitter:description" content={openGraphDescription} />
+          )}
 
           {image && <meta property="og:image" content={image} />}
           {image && <meta property="og:image:width" content="968" />}
