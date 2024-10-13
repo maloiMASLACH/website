@@ -3,6 +3,7 @@ import { Helmet } from "react-helmet";
 
 export interface ComponentHelmetProps {
   setHelmetTitle?: (title: string) => void;
+  setHelmetDescription?: (description: string) => void;
 }
 
 export interface HelmetOptions {
@@ -32,7 +33,8 @@ export const withHelmet =
       favicon,
     } = options;
     const [title, setTitle] = useState(options.title);
-
+    const [descriptionValue, setDescription] = useState(description);
+    console.log(description);
     return (
       <>
         <Helmet>
@@ -44,7 +46,7 @@ export const withHelmet =
 
           <meta name="twitter:card" content="summary_large_image" />
 
-          {description && <meta name="description" content={description} />}
+          {descriptionValue && <meta name="description" content={description} />}
           {openGraphDescription && <meta name="og:description" content={openGraphDescription} />}
 
           {image && <meta property="og:image" content={image} />}
@@ -71,7 +73,7 @@ export const withHelmet =
 
           <link rel="manifest" href="%PUBLIC_URL%/manifest.json" /> */}
         </Helmet>
-        <Component {...props} setHelmetTitle={setTitle} />
+        <Component {...props} setHelmetTitle={setTitle} setHelmetDescription={setDescription} />
       </>
     );
   };
