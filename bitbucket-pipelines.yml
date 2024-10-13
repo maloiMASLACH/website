@@ -1,0 +1,32 @@
+image: vitawt/npm_wrangler
+clone:
+  depth: full
+
+pipelines:
+  branches:
+    production:
+      - step:
+          name: hello
+          script:
+            - echo "Build and deploy dev FE"
+      - step:
+          name: build and deploy FE
+          trigger: manual
+          deployment: production
+          script:
+            #FE vars substitution
+            - envsubst < .env.example > .env
+            #build
+            - yarn install
+            - yarn install --frozen-lockfile
+            - yarn build
+            - export CLOUDFLARE_ACCOUNT_ID=${CLOUDFLARE_ACCOUNT_ID}
+            - export CLOUDFLARE_API_TOKEN=${CLOUDFLARE_API_TOKEN}
+            #push
+            - npx wrangler pages deploy --branch=main dist --project-name=${PRJ_NAME_CF}
+            #cache clear
+            - >-
+              curl -X POST "https://api.cloudflare.com/client/v4/zones/{$CLOUDFLARE_ZONE}/purge_cache" 
+              -H "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}" 
+              -H "Content-Type: application/json" 
+              --data '{"purge_everything":true}'

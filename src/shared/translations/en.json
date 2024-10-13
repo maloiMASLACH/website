@@ -1,0 +1,995 @@
+{
+  "pageNotFound": {
+    "title": "404",
+    "text": "Page Not Found"
+  },
+  "home": {
+    "welcomeVitreus": {
+      "dottedButton": "VTRS - See Through; See Beyond",
+      "header": "Welcome to the boundless world of blockchain innovation. <br/>Where will Web3 take you?",
+      "description": "Vitreus Chain is a novel evolution of Layer 0 blockchains not unlike Polkadot or Cosmos, where their heart of the system is extensible and ripe for further innovation. Devoted to being an ecosystem of innovation, come and build with Vitreus Chain; discover the possibilities! <br /> <br /> <controls />",
+      "descriptionControls": "<gradientButton /> <secondaryButton />",
+      "descriptionControlsGradientButton": "Vitreus Manifesto",
+      "descriptionControlsGradientButtonLink": "https://ipfs.io/ipfs/QmbKoezJPFf1C6NoPWRc19fknLddyVeyr4QHjTiVoTZ3GV",
+      "descriptionControlsSecondaryButton": "Vitreus Minifesto",
+      "descriptionControlsSecondaryButtonLink": "https://ipfs.io/ipfs/QmW4KzsLgoy2xeqjaYwhjE6HZUjuym9qskLrFhB9G3KiYg",
+      "blockHeader": "With VTRS, embrace a future built with blockchain.",
+      "blockDescription": "Take the reins and guide the direction of Vitreus Chain, using VTRS, cast your vote and opinions, being an active participant in the Vitreus Chain DAO.",
+      "blockContract": "Wrapped VTRS (wVTRS) ERC-20 <iconButton />",
+      "blockContractIconButton": "CONTRACT ADDRESS",
+      "blockContractIconButtonLink": "https://etherscan.io/address/0x74950FC112473caba58193c6bF6412a6f1e4d7d2",
+      "blockContractIconButtonLeftIcon": "https://ipfs.io/ipfs/QmRBHk2LSEXS38sgztpmUpKZdN4GbTuZ4ti5xZqJEmzPFR",
+      "blockContractIconButtonRightIcon": "https://ipfs.io/ipfs/QmPPXd2t4P6Hvx3HpY1GFgYvzZyFeELk6UfwJc531DB8Mb",
+      "blockLinks": [
+        {
+          "content": "<iconButton />",
+          "contentIconButtonLink": "https://www.dextools.io/app/en/ether/pair-explorer/0xad3acd8f0d16ac7654b7cf1a743058c815a1befb?t=1718720442513",
+          "contentIconButton": "DEXTOOLS",
+          "contentIconButtonLeftIcon": "https://ipfs.io/ipfs/QmayenrqW4H1cNiCwKkS4rm6UmeMC36LHqd492DExW754n",
+          "contentIconButtonRightIcon": "https://ipfs.io/ipfs/QmPPXd2t4P6Hvx3HpY1GFgYvzZyFeELk6UfwJc531DB8Mb"
+        },
+        {
+          "content": "<iconButton />",
+          "contentIconButtonLink": "https://dexscreener.com/ethereum/0xad3acd8f0d16ac7654b7cf1a743058c815a1befb",
+          "contentIconButton": "DEXSCREENER",
+          "contentIconButtonLeftIcon": "https://ipfs.io/ipfs/Qme78bxz83KFrxhtKdxqxAiMVYDv67KRmC7f8gr5LukrLd",
+          "contentIconButtonRightIcon": "https://ipfs.io/ipfs/QmPPXd2t4P6Hvx3HpY1GFgYvzZyFeELk6UfwJc531DB8Mb"
+        },
+        {
+          "content": "<iconButton />",
+          "contentIconButtonLink": "https://coinmarketcap.com/currencies/vitreus/",
+          "contentIconButton": "COINMARKETCAP",
+          "contentIconButtonLeftIcon": "https://ipfs.io/ipfs/QmWJkx3x1w8EPiQgoz7YceWqRtbmbHTmzsSF5H53PtQhmf",
+          "contentIconButtonRightIcon": "https://ipfs.io/ipfs/QmPPXd2t4P6Hvx3HpY1GFgYvzZyFeELk6UfwJc531DB8Mb"
+        },
+        {
+          "content": "<iconButton />",
+          "contentIconButtonLink": "https://skynet.certik.com/projects/vitreus",
+          "contentIconButton": "CERTIK AUDITS",
+          "contentIconButtonLeftIcon": "https://ipfs.io/ipfs/QmUJTDFYbrp3MovutSNYj2SqxPVp9fWrx7PWAq1m8RPokY",
+          "contentIconButtonRightIcon": "https://ipfs.io/ipfs/QmPPXd2t4P6Hvx3HpY1GFgYvzZyFeELk6UfwJc531DB8Mb"
+        }
+      ]
+    },
+    "chapter": {
+      "dottedButton": "VTRS",
+      "header": "VTRS: The Next Chapter Of Web3",
+      "description": "Welcome to web3’s ecosystem of tomorrow, representing the core of web3: Decentralization.",
+      "descriptionSpan": "Let’s get back to what web3 was meant to be!",
+      "vtrsChapterCard": {
+        "titleVtrs": "VTRS",
+        "contentVtrs": "The core digital asset of the chain portion of VITREUS, is used with our proof of stake derived consensus method, Proof of Stake (PoS).",
+        "titleVnrg": "VNRG",
+        "contentVnrg": "The underlying participation element, acts as the fuel to power the network, from transactions to decentralized applications and more.",
+        "titleDePIN": "DePIN",
+        "contentDePIN": "vNodes, our small hardware device designed to handle blockchain validation, creates a Decentralized Physical Infrastructure Network (DePIN).",
+        "titleGovernance": "Governance",
+        "contentGovernance": "Vitreus Chain is owned and operated by no one else but YOU – the holders of the VTRS token."
+      },
+      "blockDescription": "From Decentralized Infrastructure to Governance, Vitreus Chain represents a shift. Supported through a large network of self-hosted hardware, Vitreus Chain hits genesis as a decentralized network, spread across over 170 nodes, in 15+ countries. In contrast, other prominent networks are highly centralized networks, built on the backs of hardware or cloud infrastructure controlled by a single, or small set of entities. Host your own node today, with a minimum requirement of 1,000,000 VTRS."
+    },
+    "vtrsToken": {
+      "dottedButton": "TOKENOMICS",
+      "header": "VTRS Token",
+      "description": "Blockchain technology, the foundation of digital assets, is constantly evolving. With every innovation, the industry takes a giant leap forward, and one such stride is the introduction of the VTRS token and the Vitreus Chain ecosystem. <br /> <br /> <greenList /> <br /> <gradientButton />",
+      "descriptionGreenList": ["VTRS Token", "How to buy VTRS", "Tokenomics"],
+      "descriptionGradientButton": "LEARN MORE",
+      "descriptionGradientButtonLink": "/vtrs"
+    },
+    "vtrsEcosystem": {
+      "dottedButton": "ECOSYSTEM",
+      "header": "Vitreus Ecosystem",
+      "description": "Explore the correlation between our two-token ecosystem, VTRS & VNRG, and learn about the Vitreus Chain and the VTRS protocol. <br /> <br /> <greenList /> <br /> <gradientButton />",
+      "descriptionGreenList": [
+        "VTRS & VNRG",
+        "vNode",
+        "Vitreus chain",
+        "VTRS protocol",
+        "vApp",
+        "Explorer",
+        "vGovern"
+      ],
+      "descriptionGradientButton": "LEARN MORE",
+      "descriptionGradientButtonLink": "/ecosystem"
+    },
+    "earningVtrs": {
+      "dottedButton": "EARNING",
+      "header": "Earn with VTRS",
+      "description": " Explore the opportunities to participate in the Vitreus ecosystem and benefit from VTRS. <br /> <br /> <greenList /> <br /> <gradientButton />",
+      "descriptionGreenList": [
+        "Staking",
+        "VIP program",
+        "Collaborative Staking",
+        "VTRS Affiliate Marketing"
+      ],
+      "descriptionGradientButton": "LEARN MORE",
+      "descriptionGradientButtonLink": "/earning-programs"
+    }
+  },
+  "vtrs": {
+    "welcomeVtrs": {
+      "dottedButton": "VTRS",
+      "header": "VTRS Digital Asset",
+      "description": "Explore VTRS Digital Asset and learn about it more"
+    },
+    "vtrsToken": {
+      "dottedButton": "VTRS",
+      "header": "VTRS Digital Asset",
+      "description": "Blockchain technology, the foundation of digital assets, is constantly evolving. With every innovation, the industry takes a giant leap forward, and one such stride is the introduction of the VTRS token and the Vitreus Chain ecosystem.",
+      "vtrsCard": {
+        "contentLeft": "While initialized as a foundational shift for the financial sector, there has been a vast array of different applications for blockchain that can be seen across the industries of the world. The Vitreus Chain was built to power this transformation. This revolutionary concept is poised to transform the way we understand and interact with blockchain technology.",
+        "contentRight": "Vitreus Chain is a Layer 0 blockchain network, home to VTRS, VNRG and vNodes, and stands as the latest evolution of blockchain. Brought to you through the simplicity of web2 while embodying the ethos of web3. This is our tomorrow."
+      }
+    },
+    "answer": {
+      "header": "What sets the VTRS token apart from other cryptocurrencies like Bitcoin and Ethereum?",
+      "headerSpan": "The answer is innovation.",
+      "description": "VTRS is not a digital currency",
+      "descriptionSpan": "it’s a dynamic force that propels the Vitreus Chain ecosystem. While it can be used like a traditional blockchain, it is also the key to other innovations, such as data sharing & VNRG."
+    },
+    "presaleState": {
+      "hidden": "true",
+      "dottedButton": "PRESALE",
+      "header": "Final Stage of VTRS Presale",
+      "description": "The Vitreus Ecosystem has entered mainnet after a year long development cycle! There is one last opportunity to buy VTRS before live trading!",
+      "descriptionText": "The VTRS token will be the driving force behind the VITREUS ecosystem, allowing holders to stake them on vNodes and this way become blockchain validators powering and securing the VITREUS network. <br /> <br /> <gradientButton />",
+      "descriptionTextGradientButton": "BUY VTRS NOW",
+      "descriptionTextGradientButtonLink": "https://app.uniswap.org/#/swap?inputCurrency=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48&outputCurrency=0x74950FC112473caba58193c6bF6412a6f1e4d7d2"
+    },
+    "presaleBuy": {
+      "hidden": "true",
+      "dottedButton": "PRESALE",
+      "header": "How to buy in the VTRS Presale",
+      "description": "Not sure how to participate in our Presale? Do not worry!",
+      "descriptionText": "We have prepared an educational video explaining everything in detail and if you should still have questions afterwards, you can refer to our FAQ page or get in touch with our team on Discord and Telegram. <br /> <br /> <gradientButton />",
+      "descriptionTextGradientButton": "BUY VTRS NOW",
+      "descriptionTextGradientButtonLink": "https://app.uniswap.org/#/swap?inputCurrency=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48&outputCurrency=0x74950FC112473caba58193c6bF6412a6f1e4d7d2"
+    },
+    "presaleStructure": {
+      "hidden": "true",
+      "dottedButton": "PRESALE",
+      "header": "VTRS Presale Structure",
+      "description": "The Mainnet sale for the Vitreus DAO is still issued through <link /> and will only be available from April 15th to May 15th!",
+      "descriptionLink": "presale.vtrs.io",
+      "descriptionText": "In order to purchase you will need to have either USDC (ERC-20) or ETH (ERC-20) in the desired amount in your wallet, plus additional ETH (ERC-20) for gas fees.<br /> <br /> A fresh VITREUS Presale NFT Voucher will be minted during the buying process in the Presale, even if you already hold a VITREUS Voucher from the Seed Round. Any additional buys during the Presale period, will be added to this new VITREUS Presale voucher. <br /> <br /> <gradientButton />",
+      "descriptionTextGradientButton": "BUY VTRS NOW",
+      "descriptionTextGradientButtonLink": "https://app.uniswap.org/#/swap?inputCurrency=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48&outputCurrency=0x74950FC112473caba58193c6bF6412a6f1e4d7d2"
+    },
+    "tokenomics": {
+      "dottedButton": "TOKENOMICS",
+      "header": "Tokenomics",
+      "description": "The token distribution of VTRS is highly decentralized with no single holder owning more than 1% of the Total Supply! <br /> <br /> VTRS is used for both Governance and Staking. <br /> <br /> <gradientButton />",
+      "descriptionGradientButton": "BUY VTRS NOW",
+      "descriptionGradientButtonLink": "https://app.uniswap.org/#/swap?inputCurrency=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48&outputCurrency=0x74950FC112473caba58193c6bF6412a6f1e4d7d2",
+      "imageUrl": "https://ipfs.io/ipfs/QmWMs9PrgWpE97cMc7HmdG5b9xxsQQXLGxoQJntm4SJ1Vw"
+    }
+  },
+  "ecosystem": {
+    "welcomeEcosystem": {
+      "dottedButton": "ECOSYSTEM",
+      "header": "The VTRS Ecosystem",
+      "description": "Explore the correlation between VTRS & VNRG <br /> and learn about the Vitreus Chain & the VTRS Protocol."
+    },
+    "vnrg": {
+      "dottedButton": "ECOSYSTEM",
+      "header": "VTRS & VNRG",
+      "description": "Take command of Vitreus' Two-Token System to experience blockchain differently!",
+      "content": "Picture this: a blockchain ecosystem where the power to fuel the network ebbs and flows at your command. This is where VTRS steps into the spotlight, poised to redefine how we participate in this digital landscape. <br /> <br /> Holding VTRS means you’re not just a passive observer – you’re an active contributor to the VITREUS platform’s success. With VTRS in your wallet, you wield a say in the direction of the ecosystem, making your participation truly meaningful. <br /> <br /> Leverage your VTRS to participate in the future of the Vitreus Chain through vGovern or Stake your tokens to produce VNRG!"
+    },
+    "ecoCards": {
+      "titleLeft": "Stake Your VTRS To Power The VITREUS <br /> Ecosystem With VNRG!",
+      "contentLeft": "Introducing VNRG, a non-traditional innovation brought forward with the Vitreus Chain to break the mold on the usability of blockchain infrastructure. VNRG is your ticket to power the intricate mechanics of the entire platform.",
+      "titleRight": "Swap VNRG To The VTRS Protocol To Earn Royalties Based On The Current Network Demand!",
+      "contentRight": "The real game-changer here is the autonomous Energy Broker, run entirely by a DAO-driven algorithm to facilitate swapping your VNRG for more VTRS, creating a self-sustaining reward cycle. <br /> <br />"
+    },
+    "vtrsChain": {
+      "dottedButton": "ECOSYSTEM",
+      "header": "The Vitreus Chain",
+      "description": "To best understand the mechanics behind the Vitreus Chain just imagine it as a Power Plant.",
+      "content": "As a Layer 0 blockchain network Vitreus stands to be a hub of progressive and innovative technologies, such as Artificial Intelligence, Industry 4.0, Internet of Things (IoT) and Decentralized Identity, Storage and Compute. <br /><br /> This Proof of Stake (PoS), DAO-governed environment operated by a Protocol DAO welcomes anyone to build and engage. <br /> <br /> Users can use their VTRS tokens to stake within the network, supporting the overall security of the Vitreus Chain. This is done by collaborating with node operators – to generate VNRG! <br /> <br />"
+    },
+    "appCards": [
+      {
+        "icon": "https://ipfs.io/ipfs/QmUfNVsrGYj5To2sraPPptgWWtSmeaydamHpZMhCjoaiXy",
+        "title": "vApp",
+        "content": "Want to get started with Vitreus Chain? Head over to your device's store and download vApp. With vApp, you will create a Vitreus Chain wallet, manage your VTRS and VNRG and even operate your vNode! Get started with these link:",
+        "controls": "<icon_1 /> <icon_2 />",
+        "controlsIcon_1": "https://ipfs.io/ipfs/QmYz7AXhqiJF9rtR5HH72nEbsQHzMzQAYvVQYAdesz8Q78",
+        "controlsIcon_1Link": "https://apps.apple.com/us/app/vapp-energized-web3/id6462536770",
+        "controlsIcon_2": "https://ipfs.io/ipfs/QmVvbCWQgqQkCy3BetExV5nsRT5SgEVC5eupvyy6VPAzys",
+        "controlsIcon_2Link": "https://play.google.com/store/apps/details?id=com.vtrs_app&hl=en&gl=US"
+      },
+      {
+        "icon": "https://ipfs.io/ipfs/QmUSJfGBmdS7m3NrRaR8G7eZKDjen73JW6KDgmMtXqY6DL",
+        "title": "Bridge",
+        "content": "Seamlessly move your VTRS tokens between our native blockchain and the Ethereum network using our cross-chain bridge. Connect your wallet to transfer your assets in both directions, unlocking new DeFi opportunities across chains.",
+        "controls": "<secondaryButton />",
+        "controlsSecondaryButton": "VISIT BRIDGE",
+        "controlsSecondaryButtonLink": "https://bridge.vtrs.io"
+      },
+      {
+        "icon": "https://ipfs.io/ipfs/QmTrYjeHLza46oNUAoFPPNXRqiGYq5fK2Hhyhncp7XHRNz",
+        "title": "Collaborative Marketplace",
+        "content": "Don't have a vNode? No worries! Delegate your tokens to vNode operator to take part in the networks security. For doing so, you're able to earn your share of the Staking Rewards. To get started, click the button below, connect your wallet and browse the available vNodes to collaborate with!",
+        "controls": "<secondaryButton />",
+        "controlsSecondaryButton": "VISIT Marketplace",
+        "controlsSecondaryButtonLink": "https://marketplace.vtrs.io/"
+      },
+      {
+        "icon": "https://ipfs.io/ipfs/QmcvLwa3LtdQTKrJ7ydWBJ6ym2zDXgoFarUTMDMWNUoVAu",
+        "title": "Explorer",
+        "content": "Browse Vitreus Chain's activity with the Blockchain Explorer. Here you can view nodes, transactions and block details!",
+        "controls": "<secondaryButton />",
+        "controlsSecondaryButton": "VISIT EXPLORER",
+        "controlsSecondaryButtonLink": "https://explorer.vtrs.io/"
+      },
+      {
+        "icon": "https://ipfs.io/ipfs/QmbVFqCetpqGLZcngTj9K8FqoAX27PKpFHNcJdwAmzsGw1",
+        "title": "Claiming",
+        "content": "Head over to <link /> to turn your Vitreus Vouchers into native VTRS! This straight forward gaslessly provides you with your presale acquired tokens on the Vitreus mainnet. Connect your ETH wallet and your VTRS wallet to get started with Vitreus Chain today!",
+        "contentLinkContent": "claiming",
+        "contentLink": "https://claiming.vtrs.io",
+        "controls": "<secondaryButton />",
+        "controlsSecondaryButton": "CLAIM YOUR VTRS",
+        "controlsSecondaryButtonLink": "https://claiming.vtrs.io"
+      },
+      {
+        "icon": "https://ipfs.io/ipfs/QmSUV9xJPobsQthZKRn8y5CtQvaNDtk4qgTMXS9J3DK4Kt",
+        "title": "Vitreus Governance",
+        "content": "Participate in the governance of our decentralized ecosystem through our vGovern platform. Connect your wallet, review active proposals, and cast votes to influence key decisions shaping the future of our blockchain-powered solutions.",
+        "controls": "<secondaryButton />",
+        "controlsSecondaryButton": "VISIT VGOVERN",
+        "controlsSecondaryButtonLink": "https://dao.vtrs.io"
+      }
+    ],
+    "vGovern": {
+      "dottedButton": "ECOSYSTEM",
+      "header": "vGovern",
+      "description": "Where your voice can be heard for the future of Vitreus Chain!",
+      "content": " vGovern is the virtual meeting hall where VTRS holder come together to make proposals to improve the network, request treasury funds, fulfill bounties and work together for the future of Vitreus Chain. <br /> <br /> Ready to get started? Ready to let your voice be heard? Head over to <link />, connect your wallet and bind your VTRS to a proposal vote today!",
+      "contentLink": "https://dao.vtrs.io",
+      "contentLinkContent": "vGovern"
+    }
+  },
+  "earning": {
+    "welcomeEarning": {
+      "dottedButton": "EARNING",
+      "header": "Earn with VTRS",
+      "description": "Explore the opportunities to participate in the Vitreus ecosystem and benefit from VTRS."
+    },
+    "stakingVtrs": {
+      "dottedButton": "EARNING",
+      "header": "Staking VTRS on vNodes",
+      "description": " VTRS serves as a means for public users to actively engage in blockchain validation within the VITREUS ecosystem. <br /> <br /> Acquiring VTRS will be possible via the Vitreus App (vApp), which also provides users with the opportunity to stake their VTRS tokens with a Node or establish a validator node. The vApp is the simplest way to interact with the Vitreus Chain to date.",
+      "items": [
+        "Nodes offer a user-friendly ‘Plug & Play’ setup and are specialized hardware devices designed to serve as validator nodes within the Vitreus Ecosystem.",
+        "Validator nodes, which can easily be setup with no technical knowledge through vApp, generate VNRG for all tokens staked or delegated to the node!",
+        "Don't want to host a validator node? Support one instead by delegating your VTRS to a node operator through the Collaborative Staking Marketplace.",
+        "VTRS can be staked in a non-custodial fashion, meaning you are always in possession of your VTRS even if you're committed to staking or governance. Would-be stakers need only 1 VTRS in order to get involved!"
+      ]
+    },
+    "vipAndVipp": {
+      "comingSoon": "coming soon",
+      "dottedButton": "EARNING",
+      "header": "VIP and VIPP",
+      "headerVip": "VIP Program",
+      "contentVip": "Atop of the traditional, consensus-level staking that rewards VNRG, the Vanguard Incentives Program (VIP) offers bonus royalty payments for users that choose to commit their tokens for minimum periods of a year. With Collaborative Digital Innovations already building their Vitreus ecosystem on the Vitreus Chain, their demand for VNRG has sparked the added incentive of the VIP. This deal has outlined a VNRG Commitment Royalty for the ongoing supply of VNRG to the Vitreus ecosystem on behalf of the Vitreus DAO to CDI. <br /> <br /> Users that commit their VTRS to the consensus algorithm long term can retract their tokens at any time if they should need to. However, an early retraction will entail a small penalty that will have to be paid by the user and used to support the reward system of the network.",
+      "headerVipp": "VIPP Preferred",
+      "description": "The Exclusive Royalty Program For VTRS Presale Buyers!",
+      "contentVipp": "<br /> In addition to the benefits from staking in the VIP, users that participated in the pre-launch events hosted by Vitreus Chain are additionally eligible for VIP Preferred (VIPP) – an exclusive royalty pool strictly limited to buyers in our closed seed sale and closed VTRS Presale. <br /> <br /> To these lucky few, VIP Preferred royalties are amplified by a further, specialized commitment from CDI in appreciation of those that bootstrapped the network’s capabilities."
+    },
+    "collaborate": {
+      "dottedButton": "EARNING",
+      "header": "Collaborative Marketplace",
+      "description": "Nodes are required in order to stake VTRS and acquire VNRG, but of course not everybody will be able or willing to acquire or operate a vNode.",
+      "content": "Vitreus chain offers the ability for those that do not have, or do not wish to operate, a validator node the ability to delegate their tokens to an operator. This collaboration between community and operators encourages decentralization and unity. <br /> <br /> Through the Collaborative Staking Marketplace, those with VTRS looking to stake will be able to browse through the list of available validator nodes and choose one that best suits their needs! Time to get staking! <br /> <br /> <gradientButton />",
+      "contentGradientButton": "VISIT Marketplace",
+      "contentGradientButtonLink": "https://marketplace.vtrs.io/"
+    }
+  },
+  "documents": {
+    "welcomeDocuments": {
+      "dottedButton": "DOCUMENTS",
+      "header": "The Vitreus documents",
+      "description": "You want to dive deeper into the Vitreus Ecosystem? <br /> You’ve come to the right place."
+    },
+    "manifesto": {
+      "dottedButton": "DOCUMENTS",
+      "header": "Vitreus Chain Manifesto",
+      "description": "Want to really get into the weeds of the Vitreus Chain, its governance, and VTRS? <br /> <br /> The Vitreus Chain Manifesto offers the broader vision of the platform, introduces web3 and gets into the details about the under-the-hood elements. <br /> <br /> As you navigate its pages, we invite you to challenge, question, and engage with the content, furthering the collaborative spirit of the VITREUS community. <br /> <br /> Welcome to the next chapter of technological evolution. <br /> <br /> <controls />",
+      "descriptionControls": "<gradientButton /> <secondaryButton />",
+      "descriptionControlsGradientButton": "Vitreus Manifesto",
+      "descriptionControlsGradientButtonLink": "https://ipfs.io/ipfs/QmbKoezJPFf1C6NoPWRc19fknLddyVeyr4QHjTiVoTZ3GV",
+      "descriptionControlsSecondaryButton": "Vitreus Minifesto",
+      "descriptionControlsSecondaryButtonLink": "https://ipfs.io/ipfs/QmW4KzsLgoy2xeqjaYwhjE6HZUjuym9qskLrFhB9G3KiYg"
+    },
+    "policies": {
+      "dottedButton": "DOCUMENTS",
+      "header": "Policies",
+      "policies": [
+        {
+          "name": "Privacy Statement",
+          "route": "/statement",
+          "doc": {
+            "dottedButton": "Documents",
+            "title": "Privacy statement",
+            "content": [
+              {
+                "text": "This privacy statement was last changed on October 30, 2023, last checked on October 30, 2023, and applies to citizens and legal permanent residents of the United States. <br/ >In this privacy statement, we explain what we do with the data we obtain about you via <link />. We recommend you carefully read this statement. In our processing we comply with the requirements of privacy legislation. That means, among other things, that: <br /> <br />  <ul /><br />If you have any questions, or want to know exactly what data we keep of you, please contact us.",
+                "textLink": "https://vtrs.io",
+                "textList": [
+                  "we clearly state the purposes for which we process personal data. We do this by means of this privacy statement;",
+                  "we aim to limit our collection of personal data to only the personal data required for legitimate purposes;",
+                  "we first request your explicit consent to process your personal data in cases requiring your consent;",
+                  "we take appropriate security measures to protect your personal data and also require this from parties that process personal data on our behalf;",
+                  "we respect your right to access your personal data or have it corrected or deleted, at your request."
+                ]
+              },
+              {
+                "title": "1. Purpose And Categories Of Data",
+                "text": "We may collect or receive personal information for a number of purposes connected with our business operations which may include the following: (click to expand) <br /> <br /> <accordion />",
+                "textAccordion": [
+                  {
+                    "header": "1.1 Newsletters",
+                    "content": "For this purpose we use the following data: <br /><ul /><br />The basis on which we may process these data is: <br />Upon the provision of consent <link /><br />Retention period<br />We retain this data until the service is terminated.",
+                    "contentList": ["An email address"],
+                    "contentLink": "https://cookiedatabase.org/legal-bases/#consent"
+                  },
+                  {
+                    "header": "1.2 To support services or products that a customer wants to buy or has purchased",
+                    "content": "For this purpose we use the following data: <br /><ul />The basis on which we may process these data is: <br />It is necessary for the execution of a contract or preliminary procedures related to a contract to which the data subject is a party. <link /><br />Retention period<br />We retain this data upon termination of the service for the following number of months: 12",
+                    "contentList": ["Account name or alias", "An email address"],
+                    "contentLink": "https://cookiedatabase.org/legal-bases/#agreement"
+                  },
+                  {
+                    "header": "1.3 Compiling and analyzing statistics for website improvement.",
+                    "content": "For this purpose we use the following data: <br /><ul />The basis on which we may process these data is: <br />Upon the provision of consent <link /><br />Retention period<br />We retain this data upon termination of the service for the following number of months: 12",
+                    "contentList": ["Geolocation data", "IP Address"],
+                    "contentLink": "https://cookiedatabase.org/legal-bases/#consent"
+                  }
+                ]
+              },
+              {
+                "title": "2. Disclosure Practices",
+                "text": "We disclose personal information if we are required by law or by a court order, in response to a law enforcement agency, to the extent permitted under other provisions of law, to provide information, or for an investigation on a matter related to public safety. <br /><br /> If our website or organisation is taken over, sold, or involved in a merger or acquisition, your details may be disclosed to our advisers and any prospective purchasers and will be passed on to the new owners."
+              },
+              {
+                "title": "3. How We Respond To Do Not Track Signals & Global Privacy Control",
+                "text": "Our website responds to and supports the Do Not Track (DNT) header request field. If you turn DNT on in your browser, those preferences are communicated to us in the HTTP request header, and we will not track your browsing behavior."
+              },
+              {
+                "title": "4. Security",
+                "text": "We are committed to the security of personal data. We take appropriate security measures to limit abuse of and unauthorized access to personal data. This ensures that only the necessary persons have access to your data, that access to the data is protected, and that our security measures are regularly reviewed."
+              },
+              {
+                "title": "5. Third-Party Websites",
+                "text": "This privacy statement does not apply to third-party websites connected by links on our website. We cannot guarantee that these third parties handle your personal data in a reliable or secure manner. We recommend you read the privacy statements of these websites prior to making use of these websites."
+              },
+              {
+                "title": "6. Amendments To This Privacy Statement",
+                "text": "We reserve the right to make amendments to this privacy statement. It is recommended that you consult this privacy statement regularly in order to be aware of any changes. In addition, we will actively inform you wherever possible."
+              },
+              {
+                "title": "7. Accessing And Modifying Your Data",
+                "text": "If you have any questions or want to know which personal data we have about you, please contact us. Please make sure to always clearly state who you are, so that we can be certain that we do not modify or delete any data of the wrong person. We shall provide the requested information only upon receipt of a verifiable consumer request. You can contact us by using the information below. You have the following rights: <br /> <br />"
+              },
+              {
+                "title": "7.1 You have the following rights with respect to your personal data",
+                "text": "<ul />",
+                "textList": [
+                  "You may submit a request for access to the data we process about you.",
+                  "You may object to the processing.",
+                  "You may request an overview, in a commonly used format, of the data we process about you.",
+                  "You may request correction or deletion of the data if it is incorrect or not or no longer relevant, or to ask to restrict the processing of the data."
+                ]
+              },
+              {
+                "title": "8. Children",
+                "text": "Our website is not designed to attract children and it is not our intent to collect personal data from children under the age of consent in their country of residence. We therefore request that children under the age of consent do not submit any personal data to us."
+              },
+              {
+                "title": "9. Contact Details",
+                "text": "This website is owned and operated by Vitreus DAO. <br /> <br /> Email: <link />",
+                "textLink": "mailto:support@vtrs.io"
+              },
+              {
+                "text": "Discord: <link />",
+                "textLink": "https://discord.gg/vitreus"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Terms & Conditions",
+          "route": "/terms",
+          "doc": {
+            "dottedButton": "Documents",
+            "title": "Terms and Conditions",
+            "content": [
+              {
+                "text": "These Terms and Conditions pertain to your use of the Vitreus DAO platform ('Vitreus DAO')."
+              },
+              {
+                "text": "Before proceeding, please read and understand the following Terms and Conditions ('Terms') and the Vitreus DAO legal disclaimer governing the use of the Vitreus DAO platform and any of its associated initiatives. Please read them carefully. If you do not agree with any of the provisions stated herein, you should not use the Vitreus DAO platform or participate in projects, protocols and/or tokens that may be deployed, recruited or collaboratively introduced."
+              },
+              {
+                "text": "USERS ACKNOWLEDGE THAT PARTICIPATING IN DAOS INVOLVES INHERENT RISKS, INCLUDING BUT NOT LIMITED TO MARKET VOLATILITY, SMART CONTRACT VULNERABILITIES, AND POTENTIAL LOSS OF FUNDS."
+              },
+              {
+                "title": "Vitreus DAO",
+                "text": "The Vitreus DAO platform enables users to interact with a Vitreus blockchain-based Decentralized Autonomous Organizations (DAO) governed by users, using code-based executable functions on blockchain technology, under the sole governance of the Vitreus (VTRS) token holders. <br /> <br /> To interact with Vitreus DAO, you must use non-custodial wallet software, which allows you to interact with public blockchains. Your use of a non-custodial wallet provider is governed by the applicable terms of service of that third party, and are not governed by these Terms. <br /><br /> YOU ACKNOWLEDGE THAT USING VITREUS DAO INVOLVES CERTAIN RISKS, INCLUDING BUT NOT LIMITED TO THE POTENTIAL LOSS OF YOUR DIGITAL ASSETS. <br /> <br /> YOU SHOULD CONDUCT YOUR OWN INDEPENDENT RESEARCH AND SEEK PROFESSIONAL ADVICE BEFORE USING VITREUS DAO."
+              },
+              {
+                "title": "Eligibility",
+                "text": "By accessing and using Vitreus DAO you represent and warrant to us that:<br /><br /><ul /><br />Your access to Vitreus DAO may be restricted based on your jurisdiction or geographical location. You must not use Vitreus DAO if you are located in or a citizen or resident of any state, country, territory or other jurisdiction in which the use of Vitreus DAO would be illegal or otherwise violate any applicable law (a 'Restricted Territory'). You are not participating from the United States, Burma (Myanmar), Cuba, Iran, Sudan, Syria, the Western Balkans, Belarus, Côte d’Ivoire, Democratic Republic of the Congo, Iraq, Lebanon, Liberia, Libya, North Korea, Russia, regions of Donetsk, Luhansk, Crimea and Sevastopol (specified Ukraine regions), Somalia, Venezuela, Yemen, or Zimbabwe (collectively, 'Prohibited Jurisdictions'), or any other jurisdiction listed as a Specially Designated National by the United States Office of Foreign Asset Control ('OFAC').",
+                "textList": [
+                  "You are at least 18 years old, or the legal age in your jurisdiction, with no legal impediment or incapability, capable of using Vitreus DAO and participating in any DAO or token distribution.",
+                  "You have read and understood the risks of using Vitreus DAO, and that you are solely responsible for your actions.",
+                  " You are acting on your own account as principal and not as trustee, agent or otherwise on behalf of any other persons or entities.",
+                  "You have had the opportunity to take legal, financial, accounting or other advice that you deem appropriate prior to using Vitreus DAO.",
+                  " You will only use Vitreus DAO with legally obtained digital assets that belong to you, and with full legal and beneficial title to any such assets."
+                ]
+              },
+              {
+                "title": "Risks",
+                "text": "By accessing and using Vitreus DAO, you represent that you understand the financial and technical risks associated with using cryptographic and blockchain-based systems, including, to the extent that: <br /><br /><ul />",
+                "textList": [
+                  "You understand that the markets for digital assets are nascent and highly volatile due to risk factors including, but not limited to, adoption, speculation, technology, security, and regulation.",
+                  " You understand that anyone can create fake versions of existing tokens and tokens that falsely claim to represent DAOs, projects, and acknowledge and accept the risk that you may mistakenly trade those or other tokens.",
+                  "You understand that smart contract transactions automatically execute and settle, and that blockchain-based transactions are irreversible when confirmed.",
+                  "You acknowledge and accept that the cost and speed of transacting with cryptographic and blockchain-based systems such as Vitreus are variable and may increase dramatically at any time.",
+                  "You acknowledge that we are not responsible for any of these variables or risks, do not own or control the protocol, and cannot be held liable for any resulting losses that you experience while accessing or using Vitreus DAO.",
+                  "You understand and agree to assume full responsibility for all of the risks of accessing and using Vitreus DAO.",
+                  "You understand that, as a DAO, we control the underlying software through which the Vitreus blockchain is formed, however, the software underlying blockchain networks, including the Vitreus blockchain, is open source, such that anyone can use, copy, modify, and distribute it."
+                ]
+              },
+              {
+                "text": "By using Vitreus DAO, you acknowledge and agree, that: Vitreus DAO, while responsible for the operation of the blockchain-based software and networks underlying the Vitreus DAO platform; there exists no guarantee of the functionality, security, or availability of that software and networks, and the underlying blockchain-based networks are subject to sudden changes in operating rules, such as those commonly referred to as “forks,” which may materially affect Vitreus DAO. Vitreus DAO and its wider stakeholders carry the onus of this availability, security and functionality based on the collective decisions conducted through on-chain governance, through provided and approved portals via VTRS tokens. <br /><br /><ul /><br />You interact with Vitreus DAO at your own risk. You acknowledge that Vitreus DAO is subject to flaws and that you are solely responsible for evaluating any code provided in the Vitreus DAO platform. If you are a holder of the VTRS digital asset, you are natively included in the responsibilities of Vitreus DAO as a whole, to which your digital assets may be impacted whether or not you’ve directly, or indirectly, participated in a governance vote or approved or disapproved of a vote. <br /><br />You acknowledge that the information available in Vitreus DAO may not always be accurate, complete, or current and may include technical inaccuracies or typographical errors. To continue providing you with as complete and accurate information as possible, information may be changed or updated from time to time without notice, including information regarding our policies. Accordingly, you should verify all information before relying on it, and all decisions based on information contained on or as part of the Vitreus DAO interface are your sole responsibility. No representation is made as to the accuracy, completeness, or appropriateness for any particular purpose of any information distributed via or otherwise when using Vitreus DAO. <br /><br />By using Vitreus DAO, you represent and warrant that you have been, are, and will be solely responsible for making your independent appraisal and investigations into the risks of a given transaction and the underlying digital assets, including smart contracts. You represent that you have sufficient knowledge, market sophistication, professional advice, and experience to make your evaluation of the merits and risks of any transaction conducted in connection with Vitreus DAO or any digital asset. <br /><br />You accept all consequences of using Vitreus DAO, including the risk that you may lose access to your digital assets indefinitely. All transaction decisions are made solely by you. Notwithstanding anything in these Terms, we accept no responsibility whatsoever for, and will in no circumstances be liable to you in connection with, your use of Vitreus DAO for performing digital asset transactions, including entering into smart contracts. <br /><br /> You understand that you are responsible for transactions you execute, including any erroneous orders that may be filled. We do not take any action to resolve erroneous trades that result from your errors. <br /><br />You hereby acknowledge and agree that we will have no responsibility or liability for the risks set forth in this Section or inherent to the use of Vitreus DAO. <br /> <br />You hereby acknowledge and agree we are a DAO operating the core infrastructure of a wider blockchain platform that includes and expands to accept and house other blockchain and/or smart contract based protocols. While we are a DAO and operate as such, Vitreus DAO itself cannot be held responsible for your personal decisions, votes, options, ideas, proposals or the outcomes of the decentralized population of VTRS digital asset holders. <br /><br />You hereby irrevocably waive, release, and discharge all claims, whether known or unknown toyou, against us and our shareholders, members, directors, officers, employees, agents, and representatives, suppliers, and contractors related to any of the risks set forth in this Section or inherent to the use of Vitreus DAO. <br /><br />You understand and acknowledge that before you use Vitreus DAO, you should be familiar with any rules or laws relevant to the services provided. <br /><br />You should obtain independent advice about the different types of services available in both your home jurisdiction and other relevant jurisdictions before you start using Vitreus DAO. If your country of residence imposes restrictions on digital assets, we may be required to discontinue your access to Vitreus DAO. We may not be permitted to transfer digital assets or permit the transfer of digital assets as a consequence of a judicial or administrative order or regulatory environment. <br /><br />You are responsible for all taxes in respect of any gains obtained by using Vitreus DAO. Before using our services you should understand the tax implications of acquiring, entering into, holding and disposing of a digital asset. You should consult your independent tax advisor to understand the relevant tax implications of your activities. <br /><br />YOU UNDERSTAND THAT THE USE OF VITREUS DAO IS EXPOSED TO REGULATORY AND LEGAL RISK AND THAT THE REGULATORY FRAMEWORK OF DIGITAL ASSETS MAY CHANGE OR VARY ACCORDING TO EACH JURISDICTION. THE EFFECT OF REGULATORY LEGAL RISK MAY AFFECT THE VALUE OF ANY DIGITAL ASSET. THE LAWS OF VARIOUS JURISDICTIONS MAY APPLY TO DIGITAL ASSETS. APPLYING THESE LAWS AND REGULATIONS TO DIGITAL ASSETS IS UNTESTED, AND LAWS AND REGULATIONS ARE SUBJECT TO CHANGE WITHOUT PRIOR NOTICE. AS A RESULT OF REGULATION AND LEGISLATION AROUND DIGITAL ASSETS, VITREUS DAO MAY BECOME OR NOT BE AVAILABLE IN CERTAIN JURISDICTIONS.",
+                "textList": [
+                  "You understand that blockchain networks use public and private key cryptography.",
+                  "You alone are responsible for securing your private key(s). We do not have access to your private key(s). Losing control of your private key(s) will permanently and irreversibly deny you access to digital assets on the Ethereum blockchain or other blockchain-based networks. If your private key(s) are lost, you cannot transfer your digital assets to any other blockchain address or wallet. If this occurs, then you will not be able to realize any value or utility from the digital assets that you may hold.",
+                  "You understand that our services and your digital assets could be impacted by one or more regulatory inquiries or regulatory actions, which could impede or limit the ability to continue providing our services.",
+                  "You understand that our services and your digital assets could be impacted by one or more regulatory inquiries or regulatory actions, which could impede or limit the ability to continue providing our services.",
+                  "You acknowledge that the cost of transacting on the Vitreus blockchain is variable and may increase at any time causing impact to any activities taking place on the Vitreus blockchain, which may result in price fluctuations or increased costs when using Vitreus DAO."
+                ]
+              },
+              {
+                "title": "DAOs and Utility Token Distribution",
+                "text": "The Vitreus DAO platform allows the interaction with blockchain-based proposals for highly technical, code-based alterations to the Vitreus blockchain, its components and the inclusion and operation of governance utility tokens by its users. The information and contents of each DAO-based interaction, through approved and confirmed applications and/or portals, are the sole responsibility of the Vitreus DAO users and, by definition, VTRS governance token holders. <br /><br />You acknowledge that Vitreus DAO has no responsibility whatsoever regarding the contents, representations and risks associated with the participation in any DAO or the distribution or subscription of any tokens associated with any DAO, or participating in any token sale or distribution using the Vitreus DAO platform. You explicitly understand that we have not conducted any prior legal or technical, security or other assessment on the nature of projects, protocols or tokens that expand the Vitreus DAO ecosystem and platform. We do not make any representations or warranties regarding any information, veracity, viability or any other claims regarding the projects, protocols or tokens deployed, hosted or integrated with the Vitreus DAO ecosystem and platform. <br /><br />Each project, protocol and token distribution process, including token allocation, will be determined exclusively by the promoters and users of said project, protocol or token. <br /><br />Participating in any project, protocol and distribution of tokens does not guarantee the acquisition or allocation of any tokens. Allocation decisions will be subject to the rules and processes defined by each project, protocol,token and its promoters. <br /><br />You agree and understand that: (a) all transactions submitted through Vitreus DAO are considered unsolicited, which means that you solely initiated them; (b) you have not received any investment advice from us in connection with any transaction. <br /><br />You should decide to use Vitreus DAO, as well as which governance proposals to participate in, or which ecosystem-adjacent project, protocol or tokens to receive only after due and careful consideration. You should determine whether a governance proposal is appropriate in light of your experience in similar transactions, financial resources and other relevant circumstances. If you are unsure that the governance proposal is suitable, you should obtain independent legal, tax or financial advice."
+              },
+              {
+                "title": "DAO Representations and Promotions",
+                "text": "The Vitreus DAO platform may contain references or links to projects, protocols or tokens, and other third-party resources, including, but not limited to, information, materials, products, or services that Vitreus DAO does not own or control. In addition, third parties may offer promotions related to your access and use of services. <br /><br /> Vitreus DAO does not endorse or assume responsibility for such resources or promotions.<br /><br />If you access any such resources or participate in such promotions, you do so at your own risk, and you understand that the Terms do not apply to your dealings or relationships with any DAOs or third parties. <br /><br />You expressly relieve Vitreus DAO of any liability arising from using any such resources or participating in any such promotions or marketing campaigns."
+              },
+              {
+                "title": "Prohibited activities",
+                "text": "You agree not to engage in, or attempt to engage in, any of the following categories of prohibited activities in connection to your access and use of Vitreus DAO: <br /><br /><ul />",
+                "textList": [
+                  "Activities that on or violate any copyright, trademark, service mark, patent, right of publicity, right of privacy, or other proprietary or intellectual property rights under any law or jurisdiction.",
+                  "Activities that seek to interfere with or compromise the integrity, security, or proper functioning of any computer, server, network, personal device, or other information technology system, including (but not limited to) the deployment of viruses and denial of service attacks.",
+                  "Activities that seek to defraud Vitreus DAO or any other person or entity, including (but not limited to) providing any false, inaccurate, or misleading information in order to obtain the property of another unlawfully.",
+                  "Activities that violate any applicable law, rule, or regulation concerning the integrity of trading markets.",
+                  "Activities that violate any applicable law, rule, or regulation concerning the trading of securities or derivatives, including (but not limited to) the unregistered offering of securities and the offering of leveraged and margin commodity products to retail customers in any applicable jurisdiction.",
+                  "Activities that violate any applicable law, rule, or regulation in any jurisdiction, including (but not limited to) the restrictions and regulatory requirements"
+                ]
+              },
+              {
+                "title": "Intellectual Property",
+                "text": "The Vitreus DAO owns intellectual property and other rights associated with our services provided under the Vitreus DAO platform, including, but not limited to, proprietary software, text, images, trademarks, service marks, copyrights, patents, and designs. <br /><br /> Any of the Vitreus DAO trademarks, names, logos, and other marks used in Vitreus DAO as a part of the Vitreus DAO platform, are trademarks owned by the Vitreus DAO, its affiliates or its applicable licensors. You may not copy, imitate or use such trademarks without our, or the applicable licensor's prior written consent. <br />  <br />You acknowledge that certain aspects of the Vitreus DAO applications may use, incorporate or  link to certain open-source components and that your use of the services is subject to, and you will comply with, any applicable open-source licenses that govern any such open-source components. <br /><br />Excluding third-party software that our services incorporate, the Vitreus DAO owns the services and all portions thereof, including all technology, content and other materials used, displayed or provided on or in connection with the services, including all intellectual property rights therein and thereto, whether or not subject to the open-source licenses, and hereby grant you a limited, non-exclusive, revocable, non-transferable, non-sublicensable license to access and use those portions of the Services that are proprietary and not available pursuant to the open-source licenses. <br /> <br />The Vitreus DAO applications and services are non-custodial. When you deposit digital assets into any blockchain-based, code-driven mode, such as, but not limited to smart contracts, you retain control over those digital assets at all times. The private key associated with the Vitreus address from which you transfer digital assets is the only private key that can control the digital assets you transfer into the smart contracts. You may withdraw digital assets from any smart contract only to the Vitreus address from which you deposited the digital assets. <br /> <br />All intellectual property rights, including but not limited to trademarks, logos, and content, related to DAOs in the Vitreus DAO platform, and associated materials, are owned by their respective users. You agree not to reproduce, distribute, or use any intellectual property without prior written consent from the respective owners."
+              },
+              {
+                "title": "Non-Custodial",
+                "text": "Vitreus DAO’s approved and confirmed interaction portal is noted as vGovern, which is a non-custodial software application, in which you are the sole responsible for the custody of the cryptographic private keys to the digital asset wallets you hold to access and use our services. <br /><br />These Terms do not create or impose any fiduciary duties on Vitreus DAO. <br /><br />You acknowledge and agree that Vitreus DAO owes no fiduciary duties or liabilities to you or any other party, and that to the extent any such duties or liabilities may exist at law or in equity, those duties and liabilities are hereby irrevocably disclaimed, waived, and eliminated. <br /><br />You further agree that the only duties and obligations that Vitreus DAO owes you are those set out expressly in these Terms."
+              },
+              {
+                "title": "Privacy",
+                "text": "While using the Vitreus DAO platform, Vitreus DAO may collect some personal data in order to provide our services, including your blockchain wallet address, completed transaction hashes and token IDs. <br /><br />For more information please visit our Privacy Policy <link />.",
+                "textLink": "https://vtrs.io/documents/statement",
+                "textLinkContent": "statement"
+              },
+              {
+                "title": "Modification of this Agreement",
+                "text": "Vitreus DAO reserves the right, in its sole discretion, from time to time, without prior notice, to modify, suspend or disable, temporarily or permanently, the Vitreus DAO platform, in whole or in part, for any reason whatsoever, as a result of a security incident or a governance proposal. <br /><br />All modifications will be effective when posted, and your continued access or use of Vitreus DAO will serve as confirmation of your acceptance of those modifications. If you do not agree with any modifications to this Agreement, you must immediately stop accessing and using Vitreus DAO. It is your responsibility to review them periodically. <br /><br />Vitreus DAO will not be liable for any losses suffered resulting from any modification to Vitreus DAO or from any suspension or termination, for any reason, of your access to all or any services of Vitreus DAO."
+              },
+              {
+                "title": "Disclaimers",
+                "text": "Vitreus DAO and the projects, protocols and tokens listed and deployed are provided on an 'as is' and 'as available' basis, without any warranties or guarantees of any kind. <br /><br />Vitreus DAO does not endorse or provide participation or investment advice on any DAOs.<br /><br />Participating in any event associated with projects, protocols and tokens distribution,deployment or sale promoted by any third party is solely at your own risk.<br /><br />Vitreus DAO shall not be liable for any direct, indirect, incidental, consequential, or exemplary damages arising out of or in connection with your participation in Vitreus DAO or any projects, protocols and tokens within the scope of the Vitreus DAO platform and ecosystem. <br /><br />Please read the Vitreus DAO disclaimer carefully."
+              },
+              {
+                "title": "Indemnification",
+                "text": "You will defend, indemnify, and hold Vitreus DAO harmless, including the Vitreus DAO, its Affiliates, and its Affiliates' respective shareholders, members, directors, officers, employees, attorneys, agents, representatives, suppliers and contractors (collectively, 'Indemnified Parties') from any claim, demand, lawsuit, action, proceeding, investigation, liability, damage, loss, cost or expense, including without limitation reasonable attorneys' fees, arising out of or relating to: <br /><br /><ul />",
+                "textList": [
+                  "Your use of, or conduct in connection with, Vitreus DAO;",
+                  "Vitreus Blockchain assets associated with your Vitreus Address;",
+                  "Any feedback or user content you provide to Vitreus DAO if any;",
+                  "Your violation of these Terms; or",
+                  "Your infringement or misappropriation of the rights of any other person or entity."
+                ]
+              },
+              {
+                "text": "If you are obliged to indemnify any Indemnified Party, we will have the right, in our sole discretion, to control any action or proceeding and to determine whether we wish to settle, and if so, on what terms. <br /><br />To the maximum extent permitted under applicable law, the Indemnified Parties disclaim all warranties and conditions, whether express or implied, of merchantability, fitness for a particular purpose, or non-infringement and disclaim all responsibility and liability for: <br /><br /><ul />",
+                "textList": [
+                  "Vitreus DAO is accurate, complete, current, reliable, uninterrupted, timely, secure, or error-free. Information (including, without limitation, the value or outcome of any transaction) available through Vitreus DAO is provided for general information only and should not be relied upon or used as the sole basis for making decisions. Any reliance on Vitreus DAO information is at your own risk;",
+                  "You expressly acknowledge that the Indemnified Parties are not liable for loss or damage caused by another user's conduct, unauthorized actors, or any unauthorized access to or use of Vitreus DAO, including the DAOs, its users and promoters;",
+                  "Viruses, worms, trojan horses, time bombs, cancelbots, spiders, malware or other types of malicious code that may be used to affect the functionality or operation of Vitreus DAO."
+                ]
+              },
+              {
+                "title": "Limitation of Liability",
+                "text": "Vitreus DAO shall, in no event, be liable for any incidental, direct or indirect, special, punitive, consequential or similar damages or liabilities whatsoever (including, without limitation, damages for loss of data, information, revenue, goodwill, profits or other business or financial benefit) arising out of or in connection with Vitreus DAO (and any of their content and functionality), any execution or settlement of a transaction, any performance or nonperformance of the Vitreus DAO platform, DAOs listed therein, or any Token distribution or sale, whether under contract, tort (including negligence), civil liability, statute, strict liability, breach of warranties, or under any other theory of liability, and whether or not we had been advised of, knew of or should have known of the possibility of such damages and notwithstanding any failure of the essential purpose of these Terms or any limited remedy hereunder. <br /><br />This limitation of liability shall apply to the fullest extent permitted by law."
+              },
+              {
+                "title": "Release",
+                "text": "You expressly agree that you assume all risks concerning your access to and use of Vitreus DAO. Additionally, you expressly waive and release us from any liability, claims, causes of action, or damages arising from or in any way relating to your access to and use of Vitreus DAO. <br /><br />These Terms will survive any termination of your access to Vitreus DAO, regardless of the reasons for its expiration or termination, in addition to any other provision which by law or by its nature should survive."
+              }
+            ]
+          }
+        },
+        {
+          "name": "vApp Terms of Use",
+          "route": "/vapp-terms-of-use",
+          "doc": {
+            "dottedButton": "Documents",
+            "title": "vApp Terms of Use",
+            "content": [
+              {
+                "text": "Last Updated: December 23, 2023"
+              },
+              {
+                "title": "Welcome to the Vitreus vApp!",
+                "text": "The vApp serves as the central hub for users within Power Plant by providing them with a secure, user-friendly interface for managing digital assets, operating vNodes, participating in governance, or exploring decentralized applications (dApps). The vApp contains a security software digital wallet that must be used for managing your VTRS tokens, 24 word seed phrase, and multi-factor authentication. Using the vApp is straightforward, but it is essential to always follow the terms of its use to reduce the risk of losing your protected information.  <br /><br />Please read these legally binding terms and conditions carefully as they govern your access to and continued use of the vApp.  <br /><br />These Terms of Use (the “Terms”) govern your rights and obligations regarding the use and operation of the vApp. These Terms do not set out the terms that govern the use of the vNode, our Website, or our Privacy Policy. Respective terms and conditions for the vNode, our Website , and our Privacy Policy may be found within the footer of the Website. If you do not agree to these Terms, you should not use the vApp. <br /><br />We reserve the right to change and/or amend these Terms of Use from time to time at our sole discretion and without any notice to you. By continuing to use or operate the vApp, you accept these Terms of Use together with any modifications, and you agree to comply with them. If you violate any part of these Terms of Use you may have your access canceled without prior notification and you may be permanently banned from using or operating the vApp."
+              },
+              {
+                "title": "1. Definitions",
+                "text": "Any capitalized terms used herein shall have the meaning given to them in this “Definitions” section unless otherwise stated. The section headings in these vApp Terms of Use are for your convenience only and shall govern the meaning or interpretation of any terms and clauses herein. <br /><br />“Onfido” refers to the third-party service provider that performs the required digital identity verification in compliance with KYC and AML regulations.<br /><br />“NAC” refers to the Network Access Credentials assigned to vApp users.<br /><br />“User” and “you” refer to anyone acting as a vNode operator and, by way of extension, vApp users..<br /><br />“User Account” refers to the user account created by you pursuant to these Terms of Use to use various services available on the vApp.<br /><br />“Vitreus”, “we”, “us”, and “our” refer to the commercial company Collaborative Digital Innovations Inc., a Florida registered corporation, doing business as Vitreus, with its registered office at 972 International Parkway, Lake Mary, FL 32746.<br /><br />“vApp” refers to the mobile application available for download that serves as the central hub for Plower Plant users. It provides a secure, user-friendly interface for managing digital assets, operating vNodes, participating in governance, or exploring decentralized applications (dApps).<br /><br />“vNode” refers to the custom-built, dedicated computing device that performs transaction validation on the Vitreus blockchain.<br /><br />“Wallet” refers to a digital asset wallet created within the vApp upon its initialization for the storage and management of VTRS tokens. We use an account structure to organize transactions within your Wallet.<br /><br />“Website” refers to the official Vitreus websites located at <link /> and any subdomains thereof. ",
+                "textLink": "https://www.vitreus.io"
+              },
+              {
+                "title": "2. Use of the Services",
+                "text": "2.1 The vApp, vNode, Website, related services, and the information and content available therein (“Content”) are protected worldwide by copyright laws. Subject to the Terms, Vitreus grants you a limited license to reproduce portions of Content solely as required to use the vApp for your personal or internal business purposes. Unless otherwise specified by us in a separate license, your right to use any Content is subject to these Terms. Vitreus is not a bank or financial institution and does not provide investment or financial advice, or consulting services to users of the services. We are solely the provider of the services.<br /><br />2.2 Use of the vApp is governed by these Terms. Vitreus delivers the vApp via download.. Subject to your compliance with the Terms, we grant you a nonassignable, non-transferable, non-sublicensable, revocable, and non-exclusive license to use the vApp on mobile devices that you own or control solely for your personal or internal business purposes. Because the vApp is locally installed, you are responsible for the security of the device on which it is installed, including ensuring that you keep anti-virus software current and otherwise protect the device on which the vApp is installed against malware. Vitreus is not responsible for any loss or damages – including loss of VTRS tokens or lockout from accounts accessed via the vApp – resulting from your failure to keep the device on which the vApp is installed safe and free of any malware. Vitreus cannot recover passwords or unlock account information stored on the vApp in any circumstances, including if the vApp is compromised by malware on your mobile device, and it is your sole responsibility to take all reasonable precautions to secure and backup your copy of the Software and the information stored on it.<br /><br />2.3 The vApp and related services are evolving and you may be required to accept or install updates to the vApp, or update third-party software (i.e., browsers or OS) to keep using the vApp or access their latest features, including security updates. We may update the vApp and related services at any time, without providing notice."
+              },
+              {
+                "title": "3. Software Setup",
+                "text": "3.1 The vApp is available for use on iOS and Android mobile devices. It may be downloaded from either the Apple App store or the Google Play store to your mobile device. Once downloaded, you must follow the prompts to create a Wallet that includes a 24-word recovery seed phrase. You must keep a copy of your seed phrase in a secure location. If you lose your recovery seed phrase, we cannot recover it for you. If you compromise your seed phrase, we cannot secure your Wallet for you.<br /><br />3.2 Once you have created your Wallet and secured your recovery seed phrase, you must verify your identity. This process requires you to provide a copy of your government-issued identification and a live photo to a third party service provider, Onfido, through a flow embedded into the vApp software.<br /><br />3.3 When Onfido verifies your identity, your NAC will be minted on Power Plant and your Wallet will be verified. At that time, you can connect your vNode to a power source and to your internet. Then you will connect your vApp to your vNode over WiFi and you will be prompted to create your User Account. At this time, VTRS tokens awarded to vNode operators will be deposited into your Wallet."
+              },
+              {
+                "title": "4. Recovery Seed Phrase ",
+                "text": "4.1 Your 24-word recovery seed phrase serves as a base for the derivation of your public and private keys. Your private key is the most important asset protected by the vApp since it is used as your only unique identifier when accessing and using most of the services provided on the vApp. Without your private key, you will not be able to access your Wallet or any other data tied to your NAC. In the event that you lose or damage your mobile device onto which you have downloaded the vApp, you may use your recovery seed phrase to generate an identical pair of public and private keys on the vApp installed on a new mobile device. With this, you can access all your vApp User Account, NAC credentials, your Wallet and any relevant services.<br /><br />4.2 Your recovery seed phrase is generated at random. If you forget your recovery seed phrase and your mobile device is lost or permanently damaged, you will not be able to recover the pair of public and private keys stored on your mobile device and you will not be able to access your User Account information (e.g., NAC, Wallet, VTRS tokens). For this reason, we strongly recommend writing down your recovery seed phrase and storing it in a secure location.<br /><br />4.3 You must always keep your recovery seed phrase safe, otherwise anybody who possesses it may recover the pair of your private and public keys stored on your mobile device. You should not show your recovery seed phrase to anyone. You should never enter your recovery seed phrase anywhere unless the mobile device instructs you to do so and you confirm your choice on your mobile device. Be aware that a digital copy of your recovery seed phrase stored online or at a drive accessible by multiple people may be easily stolen, so it is recommended not to upload the recovery seed phrase online or to any shared drives.<br /><br />4.4 Some third-party services allow you to recover the pair of public and private keys as well. You acknowledge that we guarantee the possibility of recovery only when you use the mobile device to generate the pair of keys to be recovered. We, however, do not and may not assume any liability for your failure to recover the pair of private and public keys using third-party services."
+              },
+              {
+                "title": "Passphrase and PIN",
+                "text": "5.1 You may at any time after your vApp installation set-up a custom word (“passphrase”) within your user interface to create an alteration of recovery seed called “master binary seed”. You can repeat this process multiple times to generate more than one seed. This master binary seed is then used to create all private keys and public keys that may be used as a unique identifier when accessing compatible services (such as cryptocurrency wallets). If you do this and you later forget your passphrase and your mobile device is lost or permanently damaged, you may not be able to recover the pair of public and private keys stored on your mobile device derived from the master binary seed and you may not be able to access your User Account (e.g., NAC, Wallet, VTRS tokens).<br /><br />5.2 For the above-mentioned reason, you must keep your passphrase safe and make precautions to remember the passphrase (e.g. write it down). You are solely responsible for keeping your passphrase safe from any third parties.<br /><br />5.3 You acknowledge that the passphrase, unlike the recovery seed, is transmitted outside the mobile device. Furthermore, you may set up a PIN. Please, be aware that if anyone takes possession of your mobile device, they may freely use any compatible services under your unique identity without any difficulties unless you set up a PIN. We therefore recommend that you set up a PIN. "
+              },
+              {
+                "title": "6. vApp Access",
+                "text": "The availability of the vApp and related Content (as defined below) is subject to our sole discretion and we do not guarantee the vApp and related Content will be always available or uninterrupted. We may suspend operations of our vApp at any time for any reason, including but not limited to, maintenance and repair. We may discontinue certain functions or services of the vApp for any reason and without prior notice."
+              },
+              {
+                "title": "7. Copyright",
+                "text": "7.1 You acknowledge that the vApp contains information, data, software, photographs, graphs, videos, typefaces, graphics, music and other material (collectively as the “Content”) that are protected by copyrights, trademarks, trade secrets, rights in databases and/or other proprietary rights.<br /><br />7.2 Except as expressly stated herein, you are not allowed to change, alter, copy, reproduce, distribute, republish, download, display, post, send, transmit or otherwise use (including “mirroring” and “framing” on other devices or servers) the Content or any portion of the vApp itself in any form or by any means without prior written permission of Vitreus or the copyright owner (if different from Vitreus).<br /><br />7.3 You may not download (other than page caching) or modify the vApp or any portion of it including, but not limited to, any collection and use of any product listings, descriptions, or prices; any derivative use or making adaptations of the vApp or its Content; any downloading or copying of account information for the benefit of another merchant; and any use of data mining, screen-scraping, robots, or similar data gathering and extraction tools.<br /><br />7.4 Nothing contained on the vApp should be construed as granting, by implication or otherwise, any license or right to use the vApp or any Content except when expressly stated herein.<br /><br />7.5 You are hereby granted a limited, revocable, non-exclusive right to access, view and use the vApp and its Content for your personal, non-commercial use only. On any copies of the vApp or the Content you make, the proprietary notices must be kept. This right to access, view and use (license) terminates automatically if you breach any part of these Terms. Upon termination you must immediately delete all of the vApp data and the Content in your possession or control."
+              },
+              {
+                "title": "8. Trademarks",
+                "text": "8.1 Vitreus, vNode, vApp and other marks which may or may not be designated on the vApp by a “™”, “®”, “SM” or other similar designation, are used on this vApp under the license of the authorized entity.<br /><br />8.2 The trademarks may not be used by you without prior, written, consent by Vitreus or their owner (if different from Vitreus), including, but not limited to, the instances when they are used in connection with any other product or service, or in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits the Vitreus brand.<br /><br />8.3 The graphics, logos, page headers, button icons, scripts, and service names are used on this vApp under the license and/or permission of the authorized entity. All other trademarks that appear on the vApp are the property of their respective owners, who may or may not be associated with us."
+              },
+              {
+                "title": "9. Disclaimer; Limits of Liability ",
+                "text": "9.1 The vApp is provided on an “as is”, “as available” basis. We do not warrant that use of the vApp will be uninterrupted or error-free. You agree that use of the vApp is at your sole risk. We disclaim warranties and representations of any kind, whether expressed or implied including, but not limited to, any express warranties, statutory warranties, and any implied warranties of merchantability, fitness for a particular purpose, and non-infringement. We also expressly disclaim any warranties for the accuracy, integrity, or completeness of the content provided on the vApp. To the extent that your jurisdiction does not allow limitations on warranties, in such jurisdictions the liability is limited to the fullest extent permitted by law. Your sole and exclusive remedy relating to your use of the Website shall be to discontinue using the Website.<br /><br />9.2 Under no circumstances shall any information, content, or services on the vApp or provided to you by us constitute financial, investment or professional advice, unless explicitly stated so. You are above all solely responsible for your decisions regarding storing, buying, selling, exchanging, sending and receiving cryptocurrencies and digital assets of any kind, and you shall always consider your financial circumstances and associated risks before obtaining any cryptocurrencies or digital assets. You represent in particular that you understand that the value of cryptocurrencies and digital asset may be extremely volatile and that its exchange rate in respect to other cryptocurrencies, digital assets, or to fiat currencies may fluctuate significantly, which could lead to significant and sudden decreases in the value of your assets.<br /><br />9.3 You agree that your access to, viewing of, or use of the vApp is at your sole risk. Under no circumstances shall Vitreus be liable for any direct, indirect, incidental, special, or consequential damages that result from the use of or inability to use the vApp, including, but not limited, to reliance by a user on any information obtained at the vApp, or that result from mistakes, omissions, interruptions, deletion of files or e-mail, errors, defects, viruses, delays in operation or transmission, or any failure of performance."
+              },
+              {
+                "title": "10. Indemnity",
+                "text": "You agree to indemnify, defend and hold Vitreus and our partners, employees, agents, and affiliates harmless from any liability, loss, claim, and expense, including reasonable attorney’s fees, related in any way to your use of the vNode or violation of these Terms. "
+              },
+              {
+                "title": "11. Privacy Policy and Website Terms",
+                "text": "Please review our Privacy Policy and Website Terms of Use, which can be found at the following addresses respectively: [URL] and [URL]. The Privacy Policy governs our processing of all personal information that we may collect from any person through the use of our Site. The Website Terms of Use governs your use of our Website in general."
+              },
+              {
+                "title": "12. Third Party Beneficiaries ",
+                "text": "These Terms are for your sole benefit and nothing herein, express or implied, is intended to or shall confer upon any other person or entity any legal or equitable right, benefit, or remedy of any nature whatsoever under or by reason of these Terms. "
+              },
+              {
+                "title": "13. Force Majeure",
+                "text": "We shall not be held responsible for delays or non-performance caused by activities or factors beyond its reasonable control, including without limitation, war, weather, strikes, floods, lockouts, fires, acts of God, pandemics, hack attacks, internet interruption, power supply interruption, terrorism, and/or delivery, vendor, supplier, or other third party delays, non-performance, or failures of any kind."
+              },
+              {
+                "title": "14. Assignment",
+                "text": "We may assign or otherwise transfer any of all of our rights or obligations hereunder, in whole or in part, to any third party in our sole discretion. You may not assign any of your rights or delegate any of your duties hereunder at any time without our prior written consent in each instance, and any attempt to do so shall be null and void. "
+              },
+              {
+                "title": "15. Partial Invalidity ",
+                "text": "In the event that any part of or portion of these Terms is deemed to be invalid, illegal or unenforceable, the remaining provisions shall continue in full force and effect."
+              },
+              {
+                "title": "16. Applicable Law; Dispute Resolution",
+                "text": "You agree that the laws of the State of the Florida, United States, without regard to the principles of the conflicts of laws, will govern your use of the vApp, these Terms of Use, the Privacy Policy, and any dispute of any sort that might arise between you and Vitreus. The United Nations Convention on Contracts for the International Sale of Goods will not apply to this Agreement and is hereby expressly excluded. Any dispute relating in any way to your visit or use of the vApp, to these Terms of Use, or to our Privacy Policy shall be finally decided before the appropriate federal or state courts of Orange County, Florida. Should you in any manner have violated or threatened to violate these Terms of Use, then Vitreus may seek injunctive or other appropriate relief in any court of our choice, and without posting a bond therefore. By continuing to use our vApp or our services, you consent to exclusive jurisdiction and venue in such courts."
+              },
+              {
+                "title": "17. Notices",
+                "text": "We may provide notices hereunder to you by: (i) email; (ii) regular mail; or (iii) posting them on the Website. You shall be responsible for ensuring that you have provided us with your current email and mailing addresses. You can contact us at any time using the information provided in Section 22 below."
+              },
+              {
+                "title": "18. Contact Us",
+                "text": "If you have any questions or suggestions about the vApp or these Terms of Use, please refer to the User Manual. If you cannot find the answer, then contact us via email at <link /><br /><br />When you contact us, you agree to receive electronic communications related to your use of the vNode. Accordingly, we may provide notices to you via email listed under your User Account or by notices on the Website, and those notices are deemed to be in writing for legal purposes and are effective on the date that we send them or post them. As long as you access and use the vApp, you agree that you will have, or have access to, the necessary software and hardware to receive such notices.",
+                "textLink": "mailto:support@vtrs.io"
+              },
+              {
+                "title": "19. Miscellaneous Provisions ",
+                "text": "These Terms, any instructions that we provide to you relating to the vApp and related services, our Website Terms of Use, and our Privacy Policy shall collectively be deemed a final and integrated agreement between you and us with respect to the subject matter hereof. Vitreus may revise these Terms at any time by updating and posting it on the Website. Accordingly, you should visit the Website and review the Terms periodically to determine if any changes have been made. Your continued use of the vNode after any changes have been made to the Terms signifies and confirms your acceptance of any such changes or amendments to the Terms. <br /><br />The failure of Vitreus to exercise or enforce any right or provision of these Terms shall not operate as a waiver of such right or provision. Any waiver of Terms by Vitreus must be in writing and signed by an authorized representative of Vitreus."
+              }
+            ]
+          }
+        },
+        {
+          "name": "Website Terms of Use",
+          "route": "/website-terms-of-use",
+          "doc": {
+            "dottedButton": "Documents",
+            "title": "Website Terms of Use",
+            "content": [
+              {
+                "text": "Last Updated: December 23, 2023"
+              },
+              {
+                "title": "Welcome to the Vitreus Website!",
+                "text": "This site is maintained as a service to our customers. Vitreus branded products (“Vitreus Products”) as well as third party products (together, the “Products”) and associated services are available for purchase and download on this website at www.vitreus.io or www.vtrs.io (our “Website”). Please read these terms and conditions carefully as they govern your access to the Website and the use of the Products.<br /><br />These Terms of Use govern your rights and obligations while accessing, viewing, browsing, visiting, or using the Vitreus Website that is available to you free of charge, except as otherwise provided herein. These Terms of Use do not set out the terms that govern the purchase and sale of our products, services, or rules of participation in our affiliate marketing program. Respective terms and conditions may be found within the footer of the Website. If you do not agree to these Terms of Use, you should not use this Website.<br /><br />We reserve the right to change and/or amend these Terms of Use from time to time at our sole discretion and without any notice to you. By accessing, viewing, browsing, or using the Website, you accept these Terms of Use together with any modifications, and you agree to comply with them. If you violate any part of these Terms of Use you may have your access canceled without prior notification and you may be permanently banned from accessing, viewing, browsing, and using the Website."
+              },
+              {
+                "title": "1. Definitions",
+                "text": "Any capitalized terms used herein shall have the meaning given to them in this “Definitions” section unless otherwise stated. The section headings in these Website Terms of Use are for your convenience only and shall govern the meaning or interpretation of any terms and clauses herein.<br /><br />“User Account” refers to the user account created by a visitor to the Website pursuant to these Terms of Use to use various services available on the Website.<br /><br />“Visitor” and “you” refer to anyone accessing, viewing, browsing, visiting or using the Website.<br /><br />“Vitreus”, “we”, “us”, and “our” refer to the commercial company Collaborative Digital Innovations Inc., a Florida registered corporation, doing business as Vitreus, with its registered office at 972 International Parkway, Lake Mary, FL 32746.<br /><br />“Website” refers to the official Vitreus websites located at <link /> and any subdomains thereof. ",
+                "textLink": "https://www.vitreus.io"
+              },
+              {
+                "title": "2. Privacy Policy",
+                "text": "We represent that the collection of your personal data shall be limited as much as possible. Any collection, storage, and handling of your personal data collected by us in connection with your accessing, viewing, browsing, visiting or using the Website is governed by our Privacy Notice which can be found in the footer of the Website."
+              },
+              {
+                "title": "3. Intended Audience",
+                "text": "YOU MUST BE AT LEAST 13 YEARS OF AGE TO ACCESS AND USE THIS WEBSITE. IF YOU ARE 13 YEARS OR YOUNGER, DO NOT USE THIS SERVICE FOR ANY PURPOSE."
+              },
+              {
+                "title": "4. User Account",
+                "text": "4.1 To access some sections of the Website or services (such as the Vitreus forum or the Vitreus affiliate program etc.) you may be required to create one or more dedicated User Accounts. You are solely responsible for all activities that occur from your User Account and/or in connection therewith. You acknowledge that you are responsible for protecting the User Account password information, for the protection of the electronic device you use to access the Website; and for any activity that occurs under your User Account due to your failure to protect such information. If you suspect any unauthorized access to your User Account, you must immediately notify us.<br /><br />4.2 We reserve the right to refuse service or to delete your User Account and to remove or edit Content submitted by you in the user area of our Website without prior notice and/or without any reason, unless specified otherwise herein or in other respective terms of our services. In such case, the information listed and accessible in your User Account and respective user areas of the Website shall be lost.<br /><br />4.3 If you submit any information to us through the Website, including in connection with the User Account registration, you represent that such information is true, accurate, and complete. Should any of your account information change, you must update it immediately."
+              },
+              {
+                "title": "5. Website Access",
+                "text": "5.1 The availability of the Website is subject to our sole decision and we do not guarantee the Website will be always available or uninterrupted. We may suspend our Website at any time for any reason, including but not limited to, maintenance and repairs. We may discontinue the Website, its sections or its Content for any reason without prior notice.<br /><br />5.2 You are solely responsible for making all arrangements necessary to access the Website including use of compatible software and hardware.<br /><br />5.3 We may terminate your access or suspend your right to access to all or part of the Website, without prior notice, for any conduct that we, in our sole discretion, believe is in violation of any applicable law or is in breach of these Terms of Use. "
+              },
+              {
+                "title": "6. Online Conduct",
+                "text": "6.1 You agree to use the Website only for lawful purposes. You are prohibited from posting on or transmitting through the Website any unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, sexually explicit, profane, hateful, racial, ethnic, or otherwise objectionable material of any kind, including but not limited to any material that is or that encourages fraudulent activity or encourages conduct that would constitute a criminal offense, give rise to civil liability, or otherwise violate any applicable local, state, federal, or international law. You are  also  prohibited  from  sending  or otherwise posting unauthorized commercial communications (such as spam) through the Website.<br /><br />6.2 We reserve the right to prohibit conduct, communication, or content that we deemed in our sole discretion to be unlawful or harmful to you, the Website, the Website users, our customers or any rights of Vitreus or any third party. We may, without having to give a reason, in our sole discretion, remove or request the removal of any user content from the Website.<br /><br />6.3 We may disclose any user content or electronic communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate the Website; or (iii) to protect the rights or property of Vitreus, its associates, our users and customers and/or you.<br /><br />6.4 You must not attempt to introduce viruses or other malicious or harmful material to the Website or its visitors, to gain unauthorized access to the Website or servers connected to the Website or the servers storing the Website, or to attack our Website via a DoS or DDoS attack.<br /><br />6.5 We may offer a possibility to communicate on our Website via forums, comments etc. In such case you are solely responsible for any communication you post on our Website. The views expressed by you or other users of the Website may not be our views or values.<br /><br />6.6 For any information, like email addresses, shipping contacts or other information or data including text and pictures sent, transmitted, or uploaded by you on the Website that are subject to intellectual property rights, you agree to grant us and our respective contractors and business partners a free, non-exclusive, transferable, license to use, copy, digitally store, and distribute such user content and to prepare derivative works based on, or incorporate into other works also for commercial purposes, for the duration of the intellectual property rights.<br /><br />6.7 Our Website is in English only. Any other language version of the Website is not an official translation and we may not be held liable for any discrepancies in translation. "
+              },
+              {
+                "title": "7. Copyright",
+                "text": "7.1 You acknowledge that the Website contains information, data, software, photographs, graphs, videos, typefaces, graphics, music and other material (collectively as the “Content”) that are protected by copyrights, trademarks, trade secrets, rights in databases and/or other proprietary rights.<br /><br />7.2 Except as expressly stated herein, you are not allowed to change, alter, copy, reproduce, distribute, republish, download, display, post, send, transmit or otherwise use (including “mirroring” and “framing” on other devices or servers) the Content or any portion of the Website itself in any form or by any means without prior written permission of Vitreus or the copyright owner (if different  from Vitreus).<br /><br />7.3 You may not download (other than page caching) or modify the Website or any portion of it including, but not limited to, any collection and use of any product listings, descriptions, or prices; any derivative use or making adaptations of the Website or its Content; any downloading or copying of account information for the benefit of another merchant; and any use of data mining, screen-scraping, robots, or similar data gathering and extraction tools.<br /><br />7.4 Nothing contained on the Website should be construed as granting, by implication or otherwise, any license or right to use the Website or any Content except when expressly stated herein.<br /><br />7.5 You are hereby granted a limited, revocable, non-exclusive right to access, view and use the Website and its Content for your personal, non-commercial use only. On any copies of the Website or the Content you make, the proprietary notices must be kept. This right to access, view and use (license) terminates automatically if you breach any part of these Terms of Use. Upon termination you must immediately delete all of the Website data and the Content in your possession or control.<br /><br />7.6 You may not use any of our Content to link third parties to the Website or any other website unless we approve it or unless you do as the Vitreus authorized Affiliate under the terms of Vitreus Affiliate Program."
+              },
+              {
+                "title": "8. Trademarks",
+                "text": "8.1 Vitreus, vNode, vApp and other marks which may or may not be designated on the Website by a “™”, “®”, “SM” or other similar designation, are used on this Website under the license of the authorized entity.<br /><br />8.2 The trademarks may not be used by you without prior, written, consent by Vitreus or their owner (if different from Vitreus), including, but not limited to, the instances when they are used in connection with any other product or service, or in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits the Vitreus brand.<br /><br />8.3 The graphics, logos, page headers, button icons, scripts, and service names are used on this Website under the license and/or permission of the authorized entity. All other trademarks that appear on the Website are the property of their respective owners, who may or may not be associated with us."
+              },
+              {
+                "title": "9. Links",
+                "text": "9.1 We are not responsible for the Content of any sites that may be linked to from the Website or any bulletin board or forum associated with us or the Website. These links are provided for your convenience only and you access them at your own risk. Unless otherwise noted, any other website accessed from the Website is independent from us, and we have no control over the Content of that other website.<br /><br />9.2 In addition, a link to any other website does not imply that we endorse or accept  any responsibility for the Content or use of such other website. In no event shall  any reference to any third party or third-party product or service be construed as our approval or endorsement of that third party or of any product or service provided by a third party.<br /><br />9.3 You may link to the homepage of our Website in a fair and legal way that does not damage our reputation or suggests any form of association or approval on our part where there is none. We reserve a right to forbid any linking to our Website."
+              },
+              {
+                "title": "10. Disclaimers; Limits of Liability",
+                "text": "10.1 The Website is provided on an “as is”, “as available” basis. We do not warrant that use of the Website will be uninterrupted or error-free. You agree that use of this Website is at your sole risk. We disclaim warranties and representations of any kind, whether expressed or implied including, but not limited to, any express warranties, statutory warranties, and any implied warranties of merchantability, fitness for a particular purpose, and non-infringement. We also expressly disclaim any warranties for the accuracy, integrity, or completeness of the Content provided on the Website. To the extent that your jurisdiction does not allow limitations on warranties, in such jurisdictions the liability is limited to the fullest extent permitted by law. Your sole and exclusive remedy relating to your use of the Website shall be to discontinue using the Website.<br /><br />10.2 Under no circumstances shall any information on the Website or provided to you by us constitute financial, investment or professional advice, unless explicitly stated so. You are above all solely responsible for your decisions regarding storing, buying, selling, exchanging, sending and receiving cryptocurrencies and digital assets of any kind, and you shall always consider your financial circumstances and associated risks before obtaining any cryptocurrencies or digital assets. You represent in particular that you understand that the value of cryptocurrencies and digital asset may be extremely volatile and that its exchange rate in respect to other cryptocurrencies, digital assets, or to fiat currencies may fluctuate significantly, which could lead to significant and sudden decreases in the value of your assets.<br /><br />10.3 You agree that your access to, viewing of, browsing, visiting or use of the Website is at your sole risk. Under no circumstances shall Vitreus be liable for any direct, indirect, incidental, special, or consequential damages that result from the use of or inability to use the Website, including, but not limited, to reliance by a user on any information obtained at the Website, or that result from mistakes, omissions, interruptions, deletion of files or e-mail, errors, defects, viruses, delays in operation or transmission, or any failure of performance.<br /><br />10.4 We are not obliged to fulfill any of our obligation under these Terms of Use, if temporarily or permanently prevented by vis maior - an event or circumstance that is extraordinary, unforeseeable, and unpreventable by usual means and with proper care, and that occurred independently of our will; such vis maior event is, among other things, a serious hacking attack or power shortage."
+              },
+              {
+                "title": "11. Indemnity",
+                "text": "You agree to indemnify, defend and hold Vitreus and our partners, employees, agents, and affiliates harmless from any liability, loss, claim, and expense, including reasonable attorney’s fees, related in any way to your use of the Website or violation of these Terms of Use."
+              },
+              {
+                "title": "12. Applicable Law; Dispute Resolution",
+                "text": "You agree that the laws of the State of the Florida, United States, without regard to the principles of the conflicts of laws, will govern your visit of the Website, these Terms of Use, the Privacy Policy, and any dispute of any sort that might arise between you and Vitreus. The United Nations Convention on Contracts for the International Sale of Goods will not apply to this Agreement and is hereby expressly excluded. Any dispute relating in any way to your visit or use of the Website, to these Terms of Use, or to our Privacy Policy shall be finally decided before the appropriate federal or state courts of Orange County, Florida. Should you in any manner have violated or threatened to violate these Terms of Use, then Vitreus may seek injunctive or other appropriate relief in any court of our choice, and without posting a bond therefore. By continuing to use our Website or our services, you consent to exclusive jurisdiction and venue in such courts."
+              },
+              {
+                "title": "13. Contact Us",
+                "text": "If you have any questions or suggestions about the Website or these Terms of Use, please contact us via email at <link /><br /><br />When you use the Website, you are communicating with Vitreus. By such use, you agree to receive electronic communications related to your use of the Website. Accordingly, we may provide notices to you via email listed under your User Account or by notices on the Website, and those notices are deemed to be in writing for legal purposes and are effective on the date that we send them or post them. As long as you access and use the Website, you agree that you will have, or have access to, the necessary software and hardware to receive such notices.",
+                "textLink": "mailto:support@vtrs.io"
+              },
+              {
+                "title": "14. Miscellaneous Provisions",
+                "text": "These Terms of Use constitutes the entire agreement between you and Vitreus and governs your use of the Website, and supersedes all prior or contemporaneous communications and proposals, whether electronic, oral or written, between you and Vitreus with respect to this Website. Notwithstanding the foregoing, you may also be subject to additional terms and conditions, posted policies (including but not limited to the Privacy Policy), guidelines, or rules that may apply when you use the website. Vitreus may revise this Terms of Use at any time by updating and posting it on the Website. Accordingly, you should visit the Website and review the Terms of Use periodically to determine if any changes have been made. Your continued use of this Website after any changes have been made to the Terms of Use signifies and confirms your acceptance of any such changes or amendments to the Terms of Use.<br /><br /> The failure of Vitreus to exercise or enforce any right or provision of these Terms of Use shall not operate as a waiver of such right or provision. Any waiver of Terms of Use by Vitreus must be in writing and signed by an authorized representative of Vitreus. If any provision of these Terms of Use shall become invalid or unenforceable, it shall not affect the validity or enforceability of other provisions. You may not assign or transfer any of your rights or obligations assumed under these Terms of Use or in any other way related thereto without our prior written consent."
+              }
+            ]
+          }
+        },
+        {
+          "name": "vNode Terms of Use",
+          "route": "/vnode-terms-of-use",
+          "doc": {
+            "dottedButton": "DOCUMENTS",
+            "title": "vNode Terms of Use",
+            "content": [
+              {
+                "text": "Last Updated: December 23, 2023"
+              },
+              {
+                "title": "Welcome to the Vitreus vNode!",
+                "text": "The vNode you have purchased is a custom-built, dedicated computing device pre-loaded with the required hardware specifications, operating system (OS) and software to perform transaction validation on the Vitreus blockchain. Designed as a plug-and-play solution, vNodes redefine the experience of becoming a blockchain validator. By operating a vNode, users can seamlessly contribute to the decentralized physical infrastructure (DePIN) that underpins Power Plant without needing extensive technical expertise.<br /><br />Please read these terms and conditions carefully as they govern your access to and continued use of the vNode.<br /><br />These Terms of Use (“Terms”) govern your rights and obligations regarding the use and operation of the vNode. These Terms do not set out the terms that govern the use of the vApp or our Website. Respective terms and conditions may be found within the footer of the Website. If you do not agree to these Terms, you should not use or operate the vNode.<br /><br />We reserve the right to change and/or amend these Terms from time to time at our sole discretion and without any notice to you. By continuing to use or operate the vNode, you accept these Terms together with any modifications, and you agree to comply with them. If you violate any part of these Terms you may have your access canceled without prior notification and you may be permanently banned from using or operating the vNode."
+              },
+              {
+                "title": "1. Definitions",
+                "text": "Any capitalized terms used herein shall have the meaning given to them in this “Definitions” section unless otherwise stated. The section headings in these Terms are for your convenience only and shall govern the meaning or interpretation of any terms and clauses herein.<br /><br />“Onfido” refers to the third-party service provider that performs the required digital identity verification in compliance with KYC and AML regulations.<br /><br />“NAC” refers to the Network Access Credentials assigned to vApp users.<br /><br />“User” and “you” refer to anyone acting as a vNode operator and, by way of extension, vApp users..<br /><br />“User Account” refers to the user account created by you pursuant to these Terms of Use to use various services available on the vApp.<br /><br />“User Manual” refers to a user manual explaining how to use the vNode. The User Manual is accessible on the Website.<br /><br />“Vitreus”, “we”, “us”, and “our” refer to the commercial company Collaborative Digital Innovations Inc., a Florida registered corporation, doing business as Vitreus, with its registered office at 972 International Parkway, Lake Mary, FL 32746.<br /><br />“vApp” refers to the mobile application available for download that serves as the central hub for Power Plant users. It provides a secure, user-friendly interface for managing digital assets, operating vNodes, participating in governance, or exploring decentralized applications (dApps).<br /><br />“vNode” refers to the custom-built, dedicated computing device that performs transaction validation on the Vitreus blockchain.<br /><br />“Wallet” refers to a digital asset wallet created within the vApp upon its initialization for the storage and management of VTRS tokens.<br /><br />“Website” refers to the official Vitreus websites located at <link /> and any subdomains thereof.",
+                "textLink": "https://www.vitreus.io"
+              },
+              {
+                "title": "2. Scope",
+                "text": "2.1 We issue these Terms to set out certain basic rules you should follow when using your vNode. Besides these Terms, you should follow the detailed User Manual available on our Website. Please be aware that in the package with your vNode we may include only an abbreviated version of the User Manual available via QR code to help you with the initial steps of your vNode initialization.<br /><br />2.2 These Terms and the User Manual constitute the main source of information and rules you should follow when using the vNode. In case of any discrepancies between these Terms and the User Manual, these Terms shall always prevail.<br /><br />2.3 If you do not agree with or understand any rules set out herein or in the User Manual and/or if you do not have a legal capacity to use the vNode (and by extension to manage VTRS assets) you should not use the vNode <br /><br />2.4 The vNodes must be used and operated with the firmware, software, and services developed by our company. Therefore, you must initialize your vNode following the procedures in the User Manual. Among other things, you must install the vApp during the initialization process. To manage your vNode and any VTRS assets, you must use the vApp."
+              },
+              {
+                "title": "3. vNode",
+                "text": "3.1 The vNode comes in a package sealed by a tamper-evident hologram seal. If you feel that the tamper-evident holographic seal was damaged or otherwise tampered with upon the package delivery, you must not use your vNode and you should contact our support staff immediately.<br /><br />3.2 The vNode is intended to be used as provided. When using the vNode, you should always follow the User Manual. Besides other rules and recommendations set out in the User Manual, adhere to the following rules:<br /><br /><ul/>",
+                "textList": [
+                  "Keep the vNode and its accessories dry. If the vNode gets wet for any reason, never attempt to dry it with any external heat source such as a hair dryer or an oven.",
+                  "Do not expose the vNode to any source of extreme heat and/or extreme cold",
+                  "To clean the vNode use a dry cloth only. Do not use any water, chemical detergent, alcohol, powder or any other substances to clean the vNode and its accessories. Unplug the vNode before attempting to clean it. Do not attempt to clean the connectors.",
+                  "If the vNode is broken, stop using it immediately. Do not attempt to take apart, open, service or otherwise repair the vNode. You should always contact our support staff for assistance with a broken vNode.",
+                  "Do not attempt to connect the vNode with other hardware. Use only the accessories (such as USB cables) provided and/or specified in the User Manual.",
+                  "Keep the small parts away from children as there may be a choking hazard."
+                ]
+              },
+              {
+                "title": "4. Firmware Setup",
+                "text": "4.1 Your vNode must be set up and initialized before operation. For guidelines on the setup procedure, please refer to the QR code on the vNode packaging or to the User Manual provided on the Website.<br /><br />4.2 Before you can set up and initialize your vNode, you must download the vApp. The vApp is available for use on iOS and Android devices. It may be downloaded from either the Apple App store or the Google Play store. Once downloaded, you must follow the prompts to create a Wallet that includes a 24-word recovery seed phrase. You must keep a copy of your seed phrase in a secure location. If you lose your recovery seed phrase, we cannot recover it for you. If you compromise your seed phrase, we cannot secure your Wallet for you.<br /><br />4.3 Once you have created your Wallet and secured your recovery seed phrase, you must verify your identity. This process requires you to provide a copy of your  government-issued identification and a live photo to a third party service provider, Onfido, through a flow embedded into the vApp software.<br /><br /> 4.4 When Onfido verifies your identity, your NAC will be minted on Power Plant and your Wallet will be verified. At that time, you can connect your vNode to a power source and to your internet. Then you will connect your vApp to your vNode over WiFi and you will be prompted to create your User Account. At this time, VTRS tokens awarded to vNode operators will be deposited into your Wallet."
+              },
+              {
+                "title": "5. Recovery Seed Phrasep",
+                "text": "5.1 Your 24-word recovery seed phrase serves as a base for the derivation of your public and private keys. Your private key is the most important asset protected by the vApp since it is used as your only unique identifier when accessing and using most of the services provided on the vApp. Without your private key, you will not be able to access your Wallet or any other data tied to your NAC. In the event that you lose or damage your mobile device onto which you have downloaded the vApp, you may use your recovery seed phrase to generate an identical pair of public and private keys on the vApp installed on a new mobile device. With this, you can access all your vApp User Account, NAC credentials, your Wallet and any relevant services.<br /><br />5.2 Your recovery seed phrase is generated at random. If you forget your recovery seed phrase and your mobile device is lost or permanently damaged, you will not be able to recover the pair of public and private keys stored on your mobile device and you will not be able to access your User Account information (e.g., NAC, Wallet, VTRS tokens). For this reason, we strongly recommend writing down your recovery seed phrase and storing it in a secure location.<br /><br />5.3 You must always keep your recovery seed phrase safe, otherwise anybody who possesses it may recover the pair of your private and public keys stored on your mobile device. You should not show your recovery seed phrase to anyone. You should never enter your recovery seed phrase anywhere unless the mobile device instructs you to do so and you confirm your choice on your mobile device. Be aware that a digital copy of your recovery seed phrase stored online or at a drive accessible by multiple people may be easily stolen, so it is recommended not to upload the recovery seed phrase online or to any shared drives.<br /><br /> 5.4 Some third-party services allow you to recover the pair of public and private keys as well. You acknowledge that we guarantee the possibility of recovery only when you use the mobile device to generate the pair of keys to be recovered. We, however, do not and may not assume any liability for your failure to recover the pair of private and public keys using third-party services."
+              },
+              {
+                "title": "6. Passphrase and PIN",
+                "text": "6.1 You may at any time after your vNode initialization set-up a custom word (“passphrase”) within your vApp user interface to create an alteration of recovery seed called “master binary seed”. You can repeat this process multiple times to generate more than one seed. This master binary seed is then used to create all private keys and public keys that may be used as a unique identifier when accessing compatible services (such as cryptocurrency wallets). If you do this and you later forget your passphrase and your mobile device is lost or permanently damaged, you may not be able to recover the pair of public and private keys stored on your mobile device derived from the master binary seed and you may not be able to access your User Account (e.g., NAC, Wallet, VTRS tokens).<br /><br />6.2 For the above-mentioned reason, you must keep your passphrase safe and make precautions to remember the passphrase (e.g. write it down). You are solely responsible for keeping your passphrase safe from any third parties<br /><br />6.3 You acknowledge that the passphrase, unlike the recovery seed, is transmitted outside the mobile device. Furthermore, you may set up a PIN. Please, be aware that if anyone takes possession of your mobile device, they may freely use any compatible services under your unique identity without any difficulties unless you set up a PIN. We therefore recommend that you set up a PIN."
+              },
+              {
+                "title": "7. Online Orders",
+                "text": "When placing an order on our Website, you are effectively offering to purchase a vNode and accompanying services. We reserve the right to accept or reject any order at our discretion. We will only accept or reject an order in its entirety. Should we elect to accept your offer, you will receive a confirmation email at the email address that you provide at such time. Notwithstanding, we reserve the right to cancel any order once accepted by us (as evidenced by a confirmation email) at any time at our sole discretion. Additionally, you have the option of canceling your order (in its entirety only) at any time prior to our having sent to you the confirmation email referenced herein."
+              },
+              {
+                "title": "8. Payment Terms",
+                "text": "All applicable prices are set forth alongside the products and services offered on our Website. Such prices are subject to change at any time by us at our sole discretion. You will be responsible for the prices stated at the time of your transaction as well as any: (i) sales, use, excise, and related taxes; and (ii) shipping and handling charges. Payment may only be made with a valid credit card, debit card, or use of a bonafide electronic payment provider (i.e., PayPal). By using any such card or payment provider, you represent and warrant your full right and authority to make such purchase in the manner elected without violation of any applicable law, rule or regulation."
+              },
+              {
+                "title": "9. Shipping Information",
+                "text": "It is our responsibility to ship your accepted order to you at the address you provide when making the order. You will be responsible for all associated shipping & handling charges. While we agree to use reasonable efforts to meet the shipping and delivery dates provided online, we shall not be responsible for any delays in shipments."
+              },
+              {
+                "title": "10. Returns",
+                "text": "If you, for any reason, are not satisfied with your order, you may return it for a full refund; provided: (i) the item was not designated as non-returnable; (ii) your return is made within thirty (30) days of delivery; and (iii) the item is returned in the same condition as originally received by you. Once the item is received by us, we will refund your purchase price. All returns must be made pursuant to the specific return procedure specifically set forth on the Website. You bear the risk of loss or damage during shipment (other than when returning non-conforming items) and as such, you are advised to obtain appropriate insurance. Your refund will be credited back to the same payment method used to make the applicable purchase."
+              },
+              {
+                "title": "11. Intellectual Property",
+                "text": "You acknowledge and agree that all uses on the Website and in these Terms of the words “sell”, “buy”, “sale”, “resale”, “purchase” and the like refer to the purchase or sale of a license only. As such, vNodes and related services provided hereunder are offered solely for license, and not actually for sale to you or any third party. Your use, therefore, shall be subject at all times to the terms of the license agreement applicable to the vNodes and related services (including without limitation those terms that pertain to use restrictions, confidentiality obligations, copying, distribution, sublicensing, reverse engineering, and modifications). The license agreement(s) shall be posted on the Website at all times. Additionally, you understand and acknowledge that we, along with our respective third party licensor(s), will remain the sole and exclusive owners of all intellectual property rights incorporated in any vNodes and related services (and any related documentation, instructions, or other materials provided therewith), subject to your limited license to exploit the vNodes and related services pursuant to the terms hereof and the applicable license agreement(s). For clarification, you will not acquire ownership rights in and to the intellectual property rights incorporated in any purchased vNodes or related services."
+              },
+              {
+                "title": "12. Buyer’s R&Ws",
+                "text": "You represent and warrant to us as follows: (i) that you have the right to enter into any transaction contemplated for hereby without violating these Terms, any applicable law, rule, or regulation, and/or any agreement with, or rights of, any third party; (ii) that you will use the vNode and related services provided hereunder exactly as authorized and never in any way that would violate any applicable law or third party right of any kind; and (iii) that you are the vNode and related services from the Website solely for your own use and not for resale and/or export."
+              },
+              {
+                "title": "13. Limited Warranty and Liability",
+                "text": "13.1 We represent and warrant to you that any vNode purchased by you on the Website, when used specifically as authorized by us and without modification thereto, will conform in all material respects to: (i) the specifications set forth on the Website, and (ii) any instructions that we provide you with upon delivery of the vNode. We further represent and warrant to you that any vNode purchased by you on the Website will be safe for its intended use and free from defects in material, functionality, and workmanship. Notwithstanding the foregoing, this warranty shall not apply when the vNode is subject to: negligence, misconduct, misuse, abuse, accident, improper installation or handling, unusual environmental conditions, or other extreme stress, alteration, repair by anyone other than us (or one of our authorized representatives), use with any third-party product or service (other than as specifically authorized in advance by us), or use in violation of any provided-for instructions (including without limitation any license agreement). Notwithstanding the foregoing, any products manufactured by a third party and incorporated in any goods provided hereunder are not covered by this limited warranty. We further warrant to you that we will perform any services purchased through the Website using personnel of all required skill, experience and qualifications and in a professional manner in accordance with generally recognized industry standards for similar services in order to meet our obligations hereunder.<br /><br />13.2 Notwithstanding anything set forth herein to the contrary, your sole remedy with respect to a breach by us of our warranties to you shall be to inform us, in writing, of your desire to exercise this limited warranty, along with a sufficiently detailed explanation of your reason(s), so that we may either: (i) repair or replace the vNode in question (or re-perform the services, as applicable); or (ii) credit or refund your purchase price. We shall have the right to select which cure option to pursue, and we will be responsible for shipping & handling charges associated with resending replacement goods (and shall also be responsible for their risk of loss in transit during such time), if and as applicable. Any claim made by you hereunder shall be made within thirty (30) days of delivery or forever be waived. We reserve the right to verify any such claim<br /><br />13.3 This warranty period is not extended if we have to repair or replace a warranted vNode or re-perform a warranted service. This limited warranty extends only to you as the original purchaser of the vNode and related services from our Website (i.e., and not to any subsequent owner or beneficiary of any vNode or related services received hereunder). In order to obtain warranty service, please contact us at <link /> and obtain an RMA number. If for any reason you believe in good faith that we have not fulfilled our obligations hereunder, you are entitled to follow the dispute resolution procedures set forth in Section 15 below.<br /><br />13.4 This limited warranty gives you specific legal rights and you may also have other rights, which vary by jurisdiction. Please note that some jurisdictions do not allow for limitations on warranties, so the above exclusion may not apply to you.<br /><br />13.5 Subject to applicable law, and without limitation on the foregoing, we limit the duration and applicability of any and all implied warranties (including, without limitation, the warranties of merchantability, fitness for a particular purpose, title, or warranty against infringement of intellectual rights of third party, whether express or implied by law, course of dealing, course of performance, usage or trade, or otherwise) to the duration of the limited warranty set forth herein. Please note that some jurisdictions do not allow for limitations on the duration of implied warranties and therefore, this limitation may not apply to you.<br /><br />13.6 Subject to applicable law, the remedies set forth above are your sole and exclusive remedies, and our entire obligation and liability, for any breach of our limited warranty. Under no circumstances will our obligation or liability hereunder exceed the purchase price you paid for the vNode. Additionally, under no circumstances will we be liable for any loss of use, data, business, goodwill, reputation, or revenue, and/or any consequential, incidental, special, or punitive damages or other direct or indirect losses of any kind. Please note that some jurisdictions do not allow for the exclusion of incidental or consequential damages, so the above exclusion may not apply to you.",
+                "textLink": "mailto:support@vtrs.io"
+              },
+              {
+                "title": "14. Indemnity",
+                "text": "You agree to indemnify, defend and hold Vitreus and our partners, employees, agents, and affiliates harmless from any liability, loss, claim, and expense, including reasonable attorney’s fees, related in any way to your use of the vNode or violation of these Terms."
+              },
+              {
+                "title": "15. Privacy Policy and Website Terms",
+                "text": "Please review our Privacy Policy and Website Terms of Use, which can be found at the following addresses respectively: [URL] and [URL]. The Privacy Policy governs our processing of all personal information that we may collect from any person through the use of our Site. The Website Terms of Use governs your use of our Website in general."
+              },
+              {
+                "title": "16. Third Party Beneficiaries",
+                "text": "These Terms are for your sole benefit and nothing herein, express or implied, is intended to or shall confer upon any other person or entity any legal or equitable right, benefit, or remedy of any nature whatsoever under or by reason of these Terms."
+              },
+              {
+                "title": "17. Force Majeure",
+                "text": "We shall not be held responsible for delays or non-performance caused by activities or factors beyond its reasonable control, including without limitation, war, weather, strikes, floods, lockouts, fires, acts of God, pandemics, hack attack, internet interruption, power supply interruption, terrorism, and/or delivery, vendor, supplier, or other third party delays, non-performance, or failures of any kind."
+              },
+              {
+                "title": "18. Assignment",
+                "text": "We may assign or otherwise transfer any of all of our rights or obligations hereunder, in whole or in part, to any third party in our sole discretion. You may not assign any of your rights or delegate any of your duties hereunder at any time without our prior written consent in each instance, and any attempt to do so shall be null and void."
+              },
+              {
+                "title": "19. Partial Invalidity",
+                "text": "In the event that any part of or portion of these Terms is deemed to be invalid, illegal or unenforceable, the remaining provisions shall continue in full force and effect."
+              },
+              {
+                "title": "20. Applicable Law; Dispute Resolution",
+                "text": "You agree that the laws of the State of the Florida, United States, without regard to the principles of the conflicts of laws, will govern your use of the vNode, these Terms of Use, the Privacy Policy, and any dispute of any sort that might arise between you and Vitreus. The United Nations Convention on Contracts for the International Sale of Goods will not apply to this Agreement and is hereby expressly excluded. Any dispute relating in any way to your visit or use of the vNode, to these Terms of Use, or to our Privacy Policy shall be finally decided before the appropriate federal or state courts of Orange County, Florida. Should you in any manner have violated or threatened to violate these Terms of Use, then Vitreus may seek injunctive or other appropriate relief in any court of our choice, and without posting a bond therefore. By continuing to use vNode or our services, you consent to exclusive jurisdiction and venue in such courts."
+              },
+              {
+                "title": "21. Notices",
+                "text": "We may provide notices hereunder to you by: (i) email; (ii) regular mail; or (iii) posting them on the Website. You shall be responsible for ensuring that you have provided us with your current email and mailing addresses. You can contact us at any time using the information provided in Section 22 below."
+              },
+              {
+                "title": "22. Contact Us",
+                "text": "If you have any questions or suggestions about the vNode or these Terms of Use, please refer to the User Manual. If you cannot find the answer, then contact us via email at <link /><br /><br />When you contact us, you agree to receive electronic communications related to your use of the vNode. Accordingly, we may provide notices to you via email listed under your User Account or by notices on the Website, and those notices are deemed to be in writing for legal purposes and are effective on the date that we send them or post them. As long as you access and use the vNode, you agree that you will have, or have access to, the necessary software and hardware to receive such notices.",
+                "textLink": "mailto:support@vtrs.io"
+              },
+              {
+                "title": "23. Miscellaneous Provisions",
+                "text": "These Terms, along with the confirmation email referenced above, any instructions that we provide to you relating to the vNode and related services, our Website Terms of Use, and our Privacy Policy shall collectively be deemed a final and integrated agreement between you and us with respect to the subject matter hereof. Vitreus may revise these Terms at any time by updating and posting it on the Website. Accordingly, you should visit the Website and review the Terms periodically to determine if any changes have been made. Your continued use of the vNode after any changes have been made to the Terms signifies and confirms your acceptance of any such changes or amendments to the Terms. <br /><br />The failure of Vitreus to exercise or enforce any right or provision of these Terms shall not operate as a waiver of such right or provision. Any waiver of Terms by Vitreus must be in writing and signed by an authorized representative of Vitreus. "
+              }
+            ]
+          }
+        },
+        {
+          "name": "Imprint",
+          "route": "/imprint",
+          "doc": {
+            "dottedButton": "Documents",
+            "title": "Imprint",
+            "content": [
+              {
+                "text": "This website is owned and operated by Vitreus DAO. <br /> <br /> Email: <link />",
+                "textLink": "mailto:support@vtrs.io"
+              },
+              {
+                "text": "Discord: <link />",
+                "textLink": "https://discord.gg/vitreus"
+              },
+              {
+                "text": "As a DAO, there are no direct legal representatives. For contact, supports or concern, use our discord."
+              },
+              {
+                "title": "1. General",
+                "text": "We are not willing or obliged to participate in dispute resolution procedures before a consumer arbitration board."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "company": {
+    "welcomeCompany": {
+      "dottedButton": "company",
+      "header": "Vitreus Chain DAO",
+      "description": "This website is owned and operated by Vitreus DAO. <br />",
+      "email": "Email: <link />",
+      "emailLink": "mailto:support@vtrs.io",
+      "discord": "Discord:  <link />",
+      "discordLink": "https://discord.gg/vitreus"
+    }
+  },
+  "blog": {
+    "news": {
+      "dottedButton": "blog",
+      "header": "The Latest from the VITREUS Blog"
+    }
+  },
+  "support": {
+    "welcomeSupport": {
+      "dottedButton": "SUPPORT",
+      "header": "Vitreus Support",
+      "description": "The Vitreus Team is always happy to help and answer your questions. We have collected the most frequently asked questions in our FAQ section below.",
+      "content": "In case you can’t find the answer you are looking for there, please don’t hesitate to reach out to us on Discord. <br /> <br /> <controls />",
+      "contentControls": "<gradientButton />",
+      "contentControlsGradientButton": "Visit Discord server",
+      "contentControlsGradientButtonLink": "https://discord.gg/vitreus"
+    },
+    "supportFaq": {
+      "dottedButton": "SUPPORT",
+      "header": "Vitreus FAQ",
+      "description": "Here you’ll find answers to the questions you may have regarding the Vitreus ecosystem.",
+      "content": "In case you can’t find the answer you are looking for please reach out to our team via Discord.",
+      "redBlock": "NEVER EVER accept help from people you don’t know or who send you unsolicited direct messages. If in doubt, always verify the authenticity of messages or the identity of persons you are communicating with are team members.",
+      "faq": [
+        {
+          "question": "What is Vitreus?",
+          "answer": "Vitreus is a foundation blockchain that connects various blockchains, allowing them to interact seamlessly. It's built on a blockchain framework called Substrate."
+        },
+        {
+          "question": "Is Vitreus a part of Polkadot?",
+          "answer": "No. Vitreus, built from the Polkadot SDK, isn’t reliant, attached or associated with the Polkadot or Kusama ecosystems. It will not be a parachain or parathread within their ecosystem, as it is an entirely sovereign, foundational deployment of a brand-new Layer 0."
+        },
+        {
+          "question": "What is Web3 Ethos?",
+          "answer": "Web3 Ethos refers to a decentralized, user-centric internet. It emphasizes decentralization, interoperability, data ownership, privacy, and user empowerment."
+        },
+        {
+          "question": "How does Vitreus handle interoperability?",
+          "answer": "Vitreus connects different blockchains via parachains for seamless integration or through bridges for connecting independent blockchains."
+        },
+        {
+          "question": "What is VTRS?",
+          "answer": "VTRS is the native token of the Vitreus platform. It is used for: Staking, Governance, Transaction fees & Accessing various features within the Vitreus ecosystem."
+        },
+        {
+          "question": "What is VIP and VIPP?",
+          "answer": "VIP (Vanguard Incentive Program) welcomes everyone in the Vitreus family, offering a unique opportunity to share in the success of the parachains on the network. By committing to a 12-month term, VIP participants earn a proportional royalty from gross revenue of opted-in parachains. It’s an invitation to join us on our journey, rewarding your dedication with a direct stake in our collective success. <br /><br />VIPP (Vanguard Incentive Program - Preferred) represents an exclusive level of engagement within the Vitreus ecosystem. As a VIPP member, not only do you receive royalties from the gross revenue of opted-in parachains, but your voice carries weight with 3x voting power in our DAO, shaping the future of Vitreus. This prestigious status is our way of acknowledging and rewarding the foundational support of our early backers, offering a richer, more influential participation experience. Dive deeper into the benefits and how to become part of these rewarding programs through our dedicated VIP and VIPP guides."
+        },
+        {
+          "question": "How are transactions made on the Vitreus Network?",
+          "answer": "On the Vitreus Network, transactions are facilitated in a manner akin to traditional blockchain networks but with a notable twist in how transaction costs are handled. The network employs VNRG, a unique resource generated by staking VTRS tokens, to serve as the fuel for transactions. This innovative method ensures transactions are not only efficient but also align with the network’s operational needs and user contributions, setting Vitreus apart in the blockchain landscape."
+        },
+        {
+          "question": "What is VNRG’s relationship with VTRS?",
+          "answer": "VNRG is generated through the staking of VTRS tokens. By staking VTRS, users contribute to the network’s operation and in return, generate VNRG. This process creates a symbiotic relationship where VTRS serves as a stakeable asset, and VNRG acts as the operational fuel for transactions."
+        },
+        {
+          "question": "What is VNRG?",
+          "answer": "VNRG is an energy token generated by staking VTRS. It can be used to pay for transaction fees on the Vitreus blockchain, providing a flexible way to interact with the network."
+        },
+        {
+          "question": "What is a vNode?",
+          "answer": "A vNode is a plug-and-play, physical hardware device that plays a pivotal role in the Vitreus network by validating transactions and ensuring network reliability. Unlike software nodes, which can be centrally hosted, vNodes are tangible units owned and operated by individuals around the world. <br /><br /> vNodes contribute to the network’s consensus mechanism, validate transactions, and help maintain the blockchain’s integrity. They connect to the internet, allowing them to participate in the network’s decentralized operations."
+        },
+        {
+          "question": "What is the Vitreus DAO?",
+          "answer": "The Vitreus DAO is a blockchain-based Decentralized Autonomous Organization that champions decentralized governance and collaborative decision-making. It is driven by its community and leverages the VTRS token for governance, staking, and participation in a cooperative staking marketplace. The DAO aims to create a secure, stable, and user-centric ecosystem, embodying the principles of decentralization and collective empowerment."
+        },
+        {
+          "question": "Where can I keep up to date with the latest news about Vitreus?",
+          "answer": "The Vitreus Discord is where the latest news and announcements are first released. Followed quickly by Twitter. We strongly suggest you join us on these two socials. It is of the utmost importance to us that the community is kept up to date with the latest developments."
+        }
+      ]
+    },
+    "helpdesk": {
+      "dottedButton": "SUPPORT",
+      "header": "Helpdesk",
+      "description": "The Vitreus Team is always happy to answer your questions or assist with any issues you may have. Join our Discord server below and move forward with creating a support ticket.<br /> <br /> Please do not create a support ticket to submit any kind of business proposals (Marketing, etc.) or job applications. For this you can contact us on marketing@vitreus.io.<br /> <br /> <gradientButton />",
+      "descriptionGradientButton": "Contact us",
+      "descriptionGradientButtonLink": "https://discord.gg/vitreus"
+    }
+  },
+  "footer": {
+    "rights": "© {{year}}, Vitreus Chain DAO - All Rights Reserved",
+    "socials": [
+      {
+        "content": "<icon />",
+        "contentIcon": "https://ipfs.io/ipfs/QmZQV9FuwzHNFKGu5gDuNz2tHZ8qWn1fLkbGUviPJZB2GR",
+        "contentIconLink": "https://twitter.com/vitreuschain"
+      },
+      {
+        "content": "<icon />",
+        "contentIcon": "https://ipfs.io/ipfs/QmPjPA8jeAbMMH69DPqYYKCJrsMRoj1MUJf4QYbSgsBZKA",
+        "contentIconLink": "https://discord.com/invite/vitreus"
+      },
+      {
+        "content": "<icon />",
+        "contentIcon": "https://ipfs.io/ipfs/QmWBrzkB8QADzM9diAY5ffFjRg595bcxzRhKHcuRD3cJBk",
+        "contentIconLink": "https://t.me/VitreusChain"
+      },
+      {
+        "content": "<icon />",
+        "contentIcon": "https://ipfs.io/ipfs/QmU7qGLXdRoDUpyaG1ybKeunhWJPkrKdsZWhDgenTCmVu1",
+        "contentIconLink": "https://www.youtube.com/@VitreusChain"
+      },
+      {
+        "content": "<icon />",
+        "contentIcon": "https://ipfs.io/ipfs/Qmbbz3jfBsoJtQLUgg6noxPy5f6F3LdeHiRiX971RFQDML",
+        "contentIconLink": "https://www.linkedin.com/company/vitreus-chain/"
+      },
+      {
+        "content": "<icon />",
+        "contentIcon": "https://ipfs.io/ipfs/QmZsjmtWyqCWRtvPgToD8v1p6aM54Ji6jS9KoXRHkXUdYo",
+        "contentIconLink": "https://www.facebook.com/VitreusChain"
+      }
+    ]
+  },
+  "redirects": [
+    {
+      "from": "/vtrs-nft-purchase-agreement",
+      "to": "/support"
+    },
+    {
+      "from": "/vnode",
+      "to": "https://youtu.be/K-Z6kI1csdc"
+    },
+    {
+      "from": "/vapp-terms-of-use",
+      "to": "/documents/vapp-terms-of-use"
+    },
+    {
+      "from": "/vnode-terms-of-use",
+      "to": "/documents/vnode-terms-of-use"
+    },
+    {
+      "from": "/website-terms-of-use",
+      "to": "/documents/website-terms-of-use"
+    }
+  ]
+}
